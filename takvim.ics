@@ -1,16 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//AnberTech//InviteSeal//TR
+PRODID:-//AnberTech//WeddingInvite//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:20270612T160000Z-ElifEge@inviteseal
+UID:20270612T160000Z-ElifEge@weddinginvite
 DTSTAMP:20261118T120000Z
 DTSTART:20270612T160000Z
 DTEND:20270612T210000Z
 SUMMARY:Elif & Ege Düğün
 LOCATION:Mehtap Yalı Davet Bahçesi\, Kandilli Caddesi No: 18\, Kandilli\, 34684 Üsküdar / İstanbul
-DESCRIPTION:Düğün davetiyemize hoş geldiniz. (InviteSeal örnek davetiye)
+DESCRIPTION:Düğün davetiyemize hoş geldiniz. (WeddingInvite örnek davetiye)
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Elif & Ege Düğün yarın
