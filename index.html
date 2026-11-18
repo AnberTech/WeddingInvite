@@ -1492,7 +1492,7 @@
     $('#closeText').textContent = CONFIG.closeText||''; $('#closeText2').textContent = CONFIG.closeText2||'';
     $('#footTag').textContent = CONFIG.footer;
     if(CONFIG.sample) $('#sample').hidden = false;
-    document.title = CONFIG.p1 + ' & ' + CONFIG.p2;
+    document.title = CONFIG.p1 + ' & ' + CONFIG.p2 + ' · InviteSeal online davetiye';
     var enc = encodeURIComponent;
     $('#mapBtn').href = 'https://www.google.com/maps/search/?api=1&query=' + enc(CONFIG.venue + ' ' + (CONFIG.mapQuery || CONFIG.address));
     var iso = function(x){ return x.toISOString().replace(/[-:]|\.\d{3}/g,''); };
