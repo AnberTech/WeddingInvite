@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AnberTech//WeddingInvite//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20270612T160000Z-ElifEge@weddinginvite
+DTSTAMP:20261118T120000Z
+DTSTART:20270612T160000Z
+DTEND:20270612T210000Z
+SUMMARY:Elif & Ege Hochzeit
+LOCATION:Mehtap Yalı Davet Bahçesi\, Kandilli Caddesi No: 18\, Kandilli\,
+  34684 Üsküdar / İstanbul
+DESCRIPTION:Willkommen zu unserer Hochzeitseinladung. (WeddingInvite-Beispi
+ eleinladung)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Elif & Ege Hochzeit
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

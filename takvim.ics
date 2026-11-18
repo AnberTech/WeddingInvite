@@ -9,8 +9,10 @@ DTSTAMP:20261118T120000Z
 DTSTART:20270612T160000Z
 DTEND:20270612T210000Z
 SUMMARY:Elif & Ege Düğün
-LOCATION:Mehtap Yalı Davet Bahçesi\, Kandilli Caddesi No: 18\, Kandilli\, 34684 Üsküdar / İstanbul
-DESCRIPTION:Düğün davetiyemize hoş geldiniz. (WeddingInvite örnek davetiye)
+LOCATION:Mehtap Yalı Davet Bahçesi\, Kandilli Caddesi No: 18\, Kandilli\,
+  34684 Üsküdar / İstanbul
+DESCRIPTION:Düğün davetiyemize hoş geldiniz. (WeddingInvite örnek dave
+ tiye)
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Elif & Ege Düğün yarın

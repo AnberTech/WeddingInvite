@@ -1,0 +1,33 @@
+# WeddingInvite
+
+> WeddingInvite is an online wedding and engagement invitation that opens in the browser, made by AnberTech (https://anbertech.github.io/).
+> Guests open one link: a sealed marble door opens (sweep the petals with a finger or blow into the microphone, then tap the seal),
+> then the invitation shows the couple, the invitation text and families, the date with add-to-calendar, the venue with directions,
+> an RSVP form, the weather for the day and a closing card, with background music and a countdown. No app or account is needed.
+
+## Live demo
+
+This site is a live demo with sample data (Elif & Ege, 12 June 2027, Istanbul). Names, date, venue and families are examples.
+The demo RSVP form does not send data anywhere; answers stay only on the visitor's device.
+The demo is available in 16 languages:
+
+- tr: https://anbertech.github.io/WeddingInvite/
+- en: https://anbertech.github.io/WeddingInvite/en/
+- ar: https://anbertech.github.io/WeddingInvite/ar/
+- de: https://anbertech.github.io/WeddingInvite/de/
+- es: https://anbertech.github.io/WeddingInvite/es/
+- fr: https://anbertech.github.io/WeddingInvite/fr/
+- hi: https://anbertech.github.io/WeddingInvite/hi/
+- id: https://anbertech.github.io/WeddingInvite/id/
+- it: https://anbertech.github.io/WeddingInvite/it/
+- ja: https://anbertech.github.io/WeddingInvite/ja/
+- ko: https://anbertech.github.io/WeddingInvite/ko/
+- nl: https://anbertech.github.io/WeddingInvite/nl/
+- pl: https://anbertech.github.io/WeddingInvite/pl/
+- pt: https://anbertech.github.io/WeddingInvite/pt/
+- ru: https://anbertech.github.io/WeddingInvite/ru/
+- zh-Hans: https://anbertech.github.io/WeddingInvite/zh-hans/
+
+## Contact
+
+- Developer: AnberTech, https://anbertech.github.io/

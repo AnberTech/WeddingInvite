@@ -1,4 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://anbertech.github.io/WeddingInvite/</loc><lastmod>2026-11-18</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://anbertech.github.io/WeddingInvite/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/en/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/ar/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/de/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/es/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/fr/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/hi/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/id/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/it/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/ja/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/ko/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/nl/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/pl/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/pt/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/ru/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
+  <url><loc>https://anbertech.github.io/WeddingInvite/zh-hans/</loc><lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://anbertech.github.io/WeddingInvite/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://anbertech.github.io/WeddingInvite/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anbertech.github.io/WeddingInvite/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://anbertech.github.io/WeddingInvite/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://anbertech.github.io/WeddingInvite/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anbertech.github.io/WeddingInvite/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://anbertech.github.io/WeddingInvite/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://anbertech.github.io/WeddingInvite/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://anbertech.github.io/WeddingInvite/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://anbertech.github.io/WeddingInvite/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://anbertech.github.io/WeddingInvite/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://anbertech.github.io/WeddingInvite/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://anbertech.github.io/WeddingInvite/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://anbertech.github.io/WeddingInvite/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://anbertech.github.io/WeddingInvite/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://anbertech.github.io/WeddingInvite/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://anbertech.github.io/WeddingInvite/en/" />
+  </url>
 </urlset>
