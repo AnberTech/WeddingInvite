@@ -91,7 +91,8 @@ footer{max-width:780px;margin:0 auto;padding:20px 20px 40px;font:400 13px/1.5 va
 [dir=rtl] .step{direction:rtl}
 h1,h2{text-wrap:balance}
 html[lang=ko] body{word-break:keep-all;overflow-wrap:anywhere}
-html[lang=ja] h1,html[lang=ja] h2,html[lang=zh-Hans] h1,html[lang=zh-Hans] h2{word-break:auto-phrase}'''
+html[lang=ja] body{line-break:strict}
+html[lang=ja] :is(h1,h2),html[lang^=zh] :is(h1,h2),html[lang=th] :is(h1,h2){text-wrap:wrap}'''
 
 
 def render(*, code, dirn, og_locale, lang_names, built, x, t, topics, url_of, home_url, cta_url, brand, site_name, org,
