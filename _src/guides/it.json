@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Passo dopo passo",
+ "g_faq_h2": "Domande frequenti",
+ "g_cta_h2": "Guarda la demo dal vivo",
+ "g_cta_p": "Apri tu stesso la porta sigillata: prova l’apertura, le schede, il modulo di conferma e il conto alla rovescia nell’invito di esempio. Il modulo della demo è solo una prova e la tua risposta non viene inviata da nessuna parte.",
+ "g_cta_btn": "Apri la demo",
+ "g_contact": "Vuoi il tuo invito? Scrivici:",
+ "g_other_h2": "Altre guide",
+ "g_lang": "Lingua",
+ "g_home": "Home",
+ "make_slug": "partecipazioni-nozze-digitali",
+ "make_name": "Partecipazione di nozze digitale",
+ "make_title": "Partecipazione di nozze digitale: la guida | WeddingInvite",
+ "make_desc": "Cosa scrivere nella partecipazione di nozze digitale, come formulare il testo e quando inviare il link. Consigli, esempi e abbinamento a quella cartacea.",
+ "make_h1": "Come creare una partecipazione di nozze digitale",
+ "make_lead": "Una partecipazione di nozze digitale riunisce in un solo link data, luogo, indicazioni e conferma di presenza. Ecco cosa deve contenere e quando inviarla agli invitati.",
+ "make_card": "Cosa inserire, esempi di testo e quando inviare il link.",
+ "make_body": [
+  [
+   "Cosa non può mancare nella partecipazione",
+   "Una buona partecipazione risponde alle domande degli invitati prima ancora che le facciano. L’elenco di base è breve: <b>i nomi degli sposi</b>, chi invita, data e ora, nome e indirizzo della location. A questo si aggiungono un modo per confermare la presenza con una data entro cui rispondere e, se serve, una breve nota sul dress code o sui bambini. Sullo schermo del telefono i paragrafi lunghi si perdono: se ogni informazione ha il suo spazio, tutto si legge meglio. In un invito WeddingInvite queste informazioni sono distribuite su sette schede: i nomi, il testo e le famiglie, la data, la location, il modulo di conferma, il meteo del giorno e la chiusura."
+  ],
+  [
+   "Come scrivere il testo: esempi",
+   "Il testo può essere formale o affettuoso; l’importante è che rispecchi la voce degli sposi e delle famiglie. Un esempio classico, nello stile delle partecipazioni: «Le famiglie Rossi e Bianchi annunciano con gioia il matrimonio dei loro figli Elif ed Ege.» Uno più informale: «Ci sposiamo! E vorremmo condividere questo giorno con le persone a cui vogliamo bene.» Limitati a due o tre frasi e mostra data, ora e indirizzo in uno spazio a parte invece di nasconderli nel testo. I nomi dei genitori sotto il testo sono un tocco tradizionale. Alla fine rileggi il testo ad alta voce: <b>se suona naturale</b>, sei sulla strada giusta."
+  ],
+  [
+   "Pensa all’esperienza degli invitati",
+   "I primi secondi contano. Una pagina pensata per il telefono e facile da leggere non affatica invitati di nessuna età. Un invito WeddingInvite si apre con <b>una porta di marmo sigillata</b>: l’invitato spazza via le foglie con un dito, oppure ci soffia sopra dopo aver consentito il microfono, tocca il sigillo e la porta si apre. In sottofondo suona la musica, che si può spegnere con un pulsante. In fondo alla pagina un conto alla rovescia mostra giorni, ore, minuti e secondi che mancano alle nozze. Con i pulsanti «Aggiungi al calendario» nella scheda della data e «Indicazioni stradali» nella scheda della location, nessuno deve cercare informazioni il giorno del matrimonio."
+  ],
+  [
+   "Quando e come inviare il link",
+   "Di solito l’invito si manda da sei a otto settimane prima del matrimonio; a chi arriva da un’altra città o dall’estero conviene dare un preavviso prima, per esempio con un «save the date». Inviare il link <b>con un messaggio personale</b> invece che in un grande gruppo è più garbato e aumenta le probabilità di ricevere una risposta. Scrivi una breve frase con parole tue e metti il link sotto. Una settimana prima delle nozze puoi condividere di nuovo lo stesso link come promemoria: orario, indirizzo e indicazioni tornano a portata di tocco per tutti."
+  ],
+  [
+   "Abbinarla alla partecipazione cartacea",
+   "La partecipazione digitale non deve per forza sostituire quella di carta. Molte coppie stampano le partecipazioni per i nonni e i parenti stretti e mandano il link a tutti gli altri invitati. Stampare sul cartoncino un <b>codice QR</b> che porta all’invito online unisce le due strade: chi tiene in mano la partecipazione inquadra il codice e arriva alle indicazioni, al calendario e al modulo di conferma. Così puoi alleggerire il cartoncino e mantenere una grafica essenziale. Qualunque soluzione tu scelga, controlla che data, ora e indirizzo siano identici sui due inviti."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Raccogli le informazioni",
+   "Riunisci in una nota i nomi, il testo, i nomi delle famiglie, data e ora, nome e indirizzo della location; fai controllare l’ortografia dalla tua famiglia."
+  ],
+  [
+   "Scrivici",
+   "Per avere un invito preparato con i tuoi dati, scrivici all’indirizzo email indicato in questa pagina."
+  ],
+  [
+   "Condividi il link",
+   "Manda il link agli invitati con un messaggio. Se aggiungi ?k=Giulia alla fine dell’indirizzo, la prima scheda mostra «Gentile Giulia» e il nome è già compilato nel modulo."
+  ],
+  [
+   "Segui le conferme",
+   "Tieni d’occhio le risposte e il numero di persone, e manda un breve promemoria a chi non ha ancora risposto prima della scadenza."
+  ]
+ ],
+ "make_faq": [
+  [
+   "Serve un’app per aprire la partecipazione di nozze digitale?",
+   "No. Un invito WeddingInvite è un unico link che si apre nel browser: l’invitato non deve scaricare app né registrarsi. È pensato per il telefono in verticale; su uno schermo largo del computer si apre in una cornice con le proporzioni di uno smartphone."
+  ],
+  [
+   "È scortese mandare l’invito di nozze su WhatsApp?",
+   "Per la maggior parte degli invitati, un link curato e accompagnato da un messaggio personale è un invito garbato e pratico. Per i parenti più anziani che tengono alla carta, una buona via di mezzo è spedire anche una partecipazione stampata e mandare il link a tutti."
+  ],
+  [
+   "Quanto tempo prima del matrimonio si mandano le partecipazioni?",
+   "Di solito da sei a otto settimane prima del matrimonio. Avvisare prima chi viene da lontano e mandare un breve promemoria una settimana prima delle nozze aiuta gli invitati a organizzarsi."
+  ],
+  [
+   "Posso rivolgermi a ogni invitato per nome?",
+   "Sì. Se aggiungi ?k=Giulia alla fine del link, la prima scheda dell’invito mostra «Gentile Giulia» e il campo del nome è già compilato nel modulo di conferma. Così mandi a ogni invitato il link che termina con il suo nome."
+  ],
+  [
+   "Come funziona il meteo nell’invito?",
+   "La scheda del meteo mostra il giorno del matrimonio. Quando mancano 14 giorni o meno, prova a caricare la previsione per quel giorno; prima, mostra il meteo registrato nella stessa data di un anno passato. Senza dati, restano i valori tipici della stagione, con l’avviso che non è una previsione. Dati: Open-Meteo."
+  ]
+ ],
+ "engage_slug": "invito-fidanzamento-digitale",
+ "engage_name": "Invito di fidanzamento digitale",
+ "engage_title": "Invito di fidanzamento digitale: testi | WeddingInvite",
+ "engage_desc": "Invito di fidanzamento digitale: esempi di testo, invio con poco preavviso, presentazione delle famiglie e data, luogo e conferma in un solo link.",
+ "engage_h1": "Come preparare un invito di fidanzamento digitale",
+ "engage_lead": "La festa di fidanzamento si organizza spesso in poco tempo. Un invito digitale con un solo link può partire non appena i dettagli sono definiti e riunisce tutte le informazioni.",
+ "engage_card": "Testi per il fidanzamento, presentare le famiglie e invio rapido.",
+ "engage_body": [
+  [
+   "Perché un invito di fidanzamento digitale?",
+   "La festa di fidanzamento si organizza di solito in poche settimane, non in mesi. Far progettare, stampare e consegnare inviti di carta non sempre rientra in questi tempi. Un invito di fidanzamento digitale, invece, può partire non appena i dettagli sono definiti. L’invitato tocca il link, vede data e luogo e può salvare la data <b>con il pulsante «Aggiungi al calendario»</b>. Anche per un piccolo ritrovo in famiglia, far vedere a tutti le stesse informazioni corrette è molto meno faticoso che spiegare i dettagli al telefono uno per uno o ripeterli in decine di messaggi."
+  ],
+  [
+   "Esempi di testo per l’invito di fidanzamento",
+   "Il testo del fidanzamento può essere un po’ più caloroso e breve di quello delle nozze. Un esempio: «Siamo felici di invitarvi alla festa di fidanzamento dei nostri figli Elif ed Ege.» Un altro: «Ci siamo fidanzati! Festeggia con noi questo momento.» Chiarisci che tipo di occasione è: una festa, una cena o un semplice pranzo in famiglia. Conta anche <b>chi invita</b>: nelle celebrazioni più tradizionali spesso sono le famiglie, mentre molte coppie invitano a nome proprio. Limita il testo a due o tre frasi e lascia data, ora e luogo alle loro schede."
+  ],
+  [
+   "Presentare le famiglie",
+   "Il fidanzamento è spesso il giorno in cui le due famiglie si incontrano per la prima volta davanti a una cerchia più ampia. Riportare insieme i nomi delle due famiglie nell’invito mostra agli invitati chi fa gli onori di casa e crea un ponte naturale tra parenti che non si conoscono ancora. In un invito WeddingInvite il testo e i <b>nomi delle famiglie</b> stanno nella stessa scheda. Controlla con entrambe le famiglie ortografia, titoli e ordine dei nomi: in questo tipo di invito anche un piccolo refuso si nota e può dispiacere. Prima dell’invio, fai rileggere il testo a ciascuna famiglia."
+  ],
+  [
+   "Come prepararsi se il tempo è poco",
+   "Se i tempi sono stretti, fissa prima ciò che non cambierà: data, ora e luogo. Poi raccogli la lista degli invitati in un unico posto e decidi come raggiungere ciascuno. Quando mandi il link, aggiungi una breve frase personale; con i nonni e i parenti più anziani, <b>avvisare prima con una telefonata</b> e poi inviare il link è sempre apprezzato. Un invito mandato da due a quattro settimane prima del fidanzamento basta alla maggior parte degli invitati. Un breve promemoria qualche giorno prima della festa rimette sotto gli occhi di tutti orario e indicazioni."
+  ],
+  [
+   "Lo stesso formato funziona anche per il fidanzamento",
+   "Un invito WeddingInvite non serve solo per il matrimonio: va benissimo anche per il fidanzamento. Anche qui ci sono l’apertura della porta sigillata, la musica, «Aggiungi al calendario» nella scheda della data, «Indicazioni stradali» in quella del luogo, il modulo di conferma e il meteo del giorno. In fondo alla pagina un <b>conto alla rovescia</b> mostra quanto manca alla festa. Anche con meno invitati, sapere quante persone verranno è importante per il cibo e la disposizione dei tavoli; puoi provare il modulo di conferma nella demo dal vivo (le risposte di esempio restano solo nel tuo browser). Quando si avvicinano le nozze, puoi riprendere lo stesso stile."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Definisci i dettagli",
+   "Stabilisci il tipo di festa, data, ora, luogo e i nomi delle due famiglie; controlla l’ortografia con loro."
+  ],
+  [
+   "Scrivici",
+   "Per avere un invito di fidanzamento preparato con i tuoi dati, scrivici all’indirizzo email indicato in questa pagina."
+  ],
+  [
+   "Invia link personali",
+   "Aggiungi ?k=Giulia alla fine dell’indirizzo perché ogni invitato riceva il suo link; nella prima scheda comparirà «Gentile Giulia»."
+  ],
+  [
+   "Segui le presenze",
+   "Controlla quante persone verranno e manda un breve promemoria qualche giorno prima della festa a chi non ha risposto."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "Quanto tempo prima si manda l’invito di fidanzamento?",
+   "Non esiste una regola fissa. Poiché il fidanzamento si organizza di solito in meno tempo del matrimonio, mandarlo da due a quattro settimane prima lascia abbastanza margine alla maggior parte degli invitati. A chi viene da lontano conviene dirlo prima."
+  ],
+  [
+   "Chi invita alla festa di fidanzamento?",
+   "Dipende dalla tradizione e dalle famiglie. Spesso invita la famiglia che ospita o entrambe le famiglie insieme; sono comuni anche i testi in cui è la coppia a invitare a nome proprio. L’importante è che dal testo si capisca chiaramente chi invita."
+  ],
+  [
+   "Un invito di fidanzamento digitale è elegante come uno stampato?",
+   "Con un testo curato e una bella grafica, sì. Un invito WeddingInvite si apre con una porta di marmo sigillata che l’invitato apre da solo, con la musica in sottofondo. Per i parenti più anziani che preferiscono la carta, puoi preparare anche un invito stampato."
+  ],
+  [
+   "Posso usare lo stesso invito per fidanzamento e matrimonio?",
+   "Meglio preparare un invito per ogni occasione, perché data, luogo e testo cambiano. Usare lo stesso stile per entrambe le feste offre invece agli invitati un’esperienza coerente e fa sì che i due inviti si completino a vicenda."
+  ],
+  [
+   "Come aprono gli invitati l’invito digitale?",
+   "L’invitato tocca il link ricevuto per messaggio e l’invito si apre nel browser del telefono, senza app né registrazione. Spazza via le foglie con un dito o soffia dopo aver consentito il microfono, tocca il sigillo e la porta si apre."
+  ]
+ ],
+ "rsvp_slug": "conferma-presenza-matrimonio",
+ "rsvp_name": "Conferma presenza matrimonio",
+ "rsvp_title": "Conferma presenza matrimonio (RSVP): guida | WeddingInvite",
+ "rsvp_desc": "Cosa significa RSVP e cosa chiedere nel modulo di conferma presenza al matrimonio? Scadenza, promemoria e calcolo degli invitati: consigli pratici.",
+ "rsvp_h1": "Conferma presenza al matrimonio: guida all’RSVP",
+ "rsvp_lead": "Sapere quante persone verranno è la base per tavoli, catering e budget. Ecco come impostare la conferma di presenza al matrimonio e raccogliere tutte le risposte.",
+ "rsvp_card": "Cosa significa RSVP, cosa chiedere, scadenza e promemoria.",
+ "rsvp_body": [
+  [
+   "Cosa significa RSVP?",
+   "RSVP è l’abbreviazione del francese «répondez s'il vous plaît», cioè «si prega di rispondere»; nelle partecipazioni italiane si trova spesso la formula «Si prega di confermare la presenza entro…». Il senso è lo stesso: all’invitato si chiede di far sapere se ci sarà oppure no. Se l’invito riporta una data, la risposta deve arrivare agli sposi entro quel giorno. Un tempo si rispondeva per telefono o con un biglietto; oggi <b>un modulo di conferma digitale</b> che raccoglie le risposte in un elenco può fare lo stesso in pochi secondi, invece di appunti sparsi. L’invitato risponde dove ha aperto l’invito."
+  ],
+  [
+   "Perché la conferma di presenza è così importante",
+   "Molte voci del matrimonio dipendono dal numero di invitati: tavoli e sedie, catering, disposizione dei posti, perfino i trasporti. Location e catering di solito chiedono il numero definitivo un certo tempo prima delle nozze; verifica i tempi esatti nel tuo contratto. <b>Un numero stimato a occhio</b> porta a tavoli vuoti oppure a cibo insufficiente. Raccogliere le risposte presto toglie pressione alle ultime settimane e ti permette di preparare la disposizione dei tavoli con calma, sapendo chi ci sarà. Anche il budget lo chiudi sul numero reale."
+  ],
+  [
+   "Cosa chiedere nel modulo",
+   "Un buon modulo di conferma è breve: l’invitato dovrebbe compilarlo in meno di un minuto. Le domande di base sono: <b>nome e cognome</b>, se parteciperà e quante persone verranno. Un campo facoltativo per un messaggio permette di segnalare un’esigenza particolare o lasciare un augurio. Il modulo di un invito WeddingInvite chiede proprio questo: nome e cognome, «Ci sarò con gioia» o «Purtroppo non potrò», un numero di persone da 1 a 10 e un messaggio facoltativo. Ogni domanda in più aumenta il rischio che qualcuno lasci il modulo a metà."
+  ],
+  [
+   "Come fissare la scadenza per rispondere",
+   "Un approccio sicuro è fissare la scadenza una o due settimane prima del giorno in cui location o catering vogliono il numero definitivo; così hai tempo per le risposte in ritardo e i promemoria. Scrivi la data con chiarezza nell’invito, per esempio: «Si prega di confermare entro il 15 maggio.» Un giorno preciso al posto di <b>formule vaghe</b> come «appena possibile» semplifica la vita agli invitati. Se hai mandato gli inviti da sei a otto settimane prima, una scadenza da tre a quattro settimane prima delle nozze va bene per la maggior parte dei casi."
+  ],
+  [
+   "Promemoria e calcolo degli invitati",
+   "A ogni matrimonio c’è chi non risponde, e quasi sempre è una dimenticanza, non disinteresse. Qualche giorno prima della scadenza, un messaggio breve e gentile con il link dell’invito di solito basta. Per il numero finale somma le persone indicate in ogni conferma e tieni <b>chi non potrà venire</b> in un elenco a parte. Telefonare a chi alla scadenza non ha ancora risposto riduce al minimo l’incertezza. Quando comunichi il numero definitivo, chiedi alla location se conviene tenere un piccolo margine per i cambi dell’ultimo minuto."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Definisci dati e scadenza",
+   "Prepara le informazioni dell’invito e scegli una scadenza in base al giorno in cui la location vuole il numero definitivo."
+  ],
+  [
+   "Prova il modulo",
+   "Puoi provare il modulo di conferma nella quinta scheda della demo dal vivo. Per il tuo invito, scrivici all’indirizzo email di questa pagina."
+  ],
+  [
+   "Condividi link personali",
+   "Aggiungi ?k=Giulia alla fine dell’indirizzo: il nome è già compilato nel modulo e l’invitato sceglie solo presenza e numero di persone."
+  ],
+  [
+   "Segui le risposte e ricorda",
+   "Somma le persone man mano che arrivano le risposte e rimanda il link con una breve nota a chi non ha risposto prima della scadenza."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "Cosa vuol dire RSVP sulla partecipazione di nozze?",
+   "RSVP sta per «répondez s'il vous plaît», cioè «si prega di rispondere». Se compare sull’invito, gli sposi ti chiedono di far sapere entro la data indicata se parteciperai. Nelle partecipazioni italiane si legge spesso anche «Si prega di confermare la presenza»."
+  ],
+  [
+   "Devo rispondere anche se non vengo?",
+   "Sì. Comunicare che non ci sarai è importante quanto confermare: così gli sposi chiudono il numero degli invitati e non tengono per te un posto che resterebbe vuoto. Basta una risposta breve e gentile."
+  ],
+  [
+   "L’invitato può cambiare la risposta in seguito?",
+   "Nella demo dal vivo di WeddingInvite la risposta, una volta salvata, viene ricordata in quel browser e compare l’opzione «Modifica la risposta»: l’invitato può scegliere di nuovo la presenza o il numero di persone. Le risposte di esempio non vengono inviate agli sposi. Se i piani cambiano all’ultimo, è comunque gentile avvisare gli sposi."
+  ],
+  [
+   "Come si chiede il numero di persone nel modulo?",
+   "Il modo più semplice è un campo a scelta nel modulo; in WeddingInvite l’invitato sceglie un numero da 1 a 10. Specificare nel messaggio chi è incluso nell’invito (una persona, una coppia o la famiglia) evita equivoci."
+  ],
+  [
+   "Quanto tempo prima delle nozze fissare la scadenza per la conferma?",
+   "Non c’è una regola fissa: decide il giorno in cui location o catering vogliono il numero definitivo. Fissare la scadenza una o due settimane prima di quel giorno lascia margine per le risposte in ritardo e i promemoria."
+  ]
+ ]
+}

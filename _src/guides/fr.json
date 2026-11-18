@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Étape par étape",
+ "g_faq_h2": "Questions fréquentes",
+ "g_cta_h2": "Voir la démo en direct",
+ "g_cta_p": "Ouvrez vous-même la porte scellée : essayez l’ouverture, les cartes, le formulaire de réponse et le compte à rebours dans le faire-part d’exemple. Le formulaire de la démo n’est qu’un essai : votre réponse n’est envoyée nulle part.",
+ "g_cta_btn": "Ouvrir la démo",
+ "g_contact": "Pour votre propre faire-part, écrivez-nous :",
+ "g_other_h2": "Autres guides",
+ "g_lang": "Langue",
+ "g_home": "Accueil",
+ "make_slug": "faire-part-mariage-en-ligne",
+ "make_name": "Faire-part de mariage en ligne",
+ "make_title": "Faire-part de mariage en ligne : le guide | WeddingInvite",
+ "make_desc": "Que mettre sur un faire-part de mariage en ligne, comment rédiger le texte, quand envoyer le lien ? Conseils, exemples et association avec le papier.",
+ "make_h1": "Comment créer un faire-part de mariage en ligne",
+ "make_lead": "Un faire-part de mariage en ligne réunit la date, le lieu, l’itinéraire et la réponse des invités dans un seul lien. Voici ce qu’il doit contenir et quand l’envoyer.",
+ "make_card": "Les mentions essentielles, des exemples de texte et le bon moment pour envoyer le lien.",
+ "make_body": [
+  [
+   "Les mentions indispensables du faire-part",
+   "Un bon faire-part répond aux questions des invités avant même qu’ils ne les posent. La liste de base est courte : <b>les prénoms des mariés</b>, les familles qui invitent, la date et l’heure, le nom et l’adresse du lieu. On peut y ajouter un moyen de répondre avec une date limite et, si besoin, une courte note sur la tenue ou les enfants. Sur l’écran d’un téléphone, les longs paragraphes se perdent : quand chaque information a sa propre place, la lecture est plus simple. Dans un faire-part WeddingInvite, ces informations se répartissent sur sept cartes : les prénoms, le texte et les familles, la date, le lieu, le formulaire de réponse, la météo du jour J et la conclusion."
+  ],
+  [
+   "Comment rédiger le texte : exemples",
+   "Le texte peut être solennel ou plus intime ; l’essentiel est qu’il porte la voix du couple et des familles. Un exemple classique : « Monsieur et Madame Martin ont la joie de vous faire part du mariage de leur fille Elif avec Ege. » Un exemple plus chaleureux : « Nous nous marions et nous serions heureux de partager ce jour avec vous. » Tenez-vous à deux ou trois phrases et affichez la date, l’heure et l’adresse à part au lieu de les noyer dans le texte. Faire figurer le nom des parents est une touche traditionnelle. Une fois le texte écrit, lisez-le à voix haute : <b>s’il sonne juste</b>, vous êtes sur la bonne voie."
+  ],
+  [
+   "Pensez à l’expérience des invités",
+   "Les premières secondes comptent. Une page conçue pour le téléphone et facile à lire convient aux invités de tout âge. Un faire-part WeddingInvite s’ouvre sur <b>une porte de marbre scellée</b> : l’invité balaie les feuilles du doigt, ou souffle dessus après avoir autorisé le micro, touche le sceau, et la porte s’ouvre. Une musique joue en fond, que l’on peut couper d’un bouton. En bas de la page, un compte à rebours affiche les jours, heures, minutes et secondes avant le mariage. Grâce aux boutons « Ajouter à l’agenda » sur la carte de la date et « Itinéraire » sur la carte du lieu, personne n’a à chercher les informations le jour J."
+  ],
+  [
+   "Quand et comment envoyer le lien",
+   "L’usage est d’envoyer le faire-part six à huit semaines avant le mariage ; pour les invités qui viennent d’une autre ville ou de l’étranger, mieux vaut les prévenir plus tôt, par exemple avec un « save the date ». Envoyer le lien <b>par un message personnel</b> plutôt que dans un grand groupe est plus délicat et augmente les chances d’obtenir une réponse. Écrivez une courte phrase à vous et placez le lien en dessous. Une semaine avant le mariage, vous pouvez repartager le même lien en guise de rappel : l’heure, l’adresse et l’itinéraire sont alors à portée de doigt pour tout le monde."
+  ],
+  [
+   "L’associer au faire-part papier",
+   "Le faire-part numérique ne remplace pas forcément le carton imprimé. Beaucoup de couples envoient un faire-part papier aux grands-parents et à la famille proche, et le lien au reste des invités. Imprimer sur le carton un <b>QR code</b> menant au faire-part en ligne réunit les deux : l’invité qui tient le carton scanne le code et accède à l’itinéraire, à l’agenda et au formulaire de réponse. Vous pouvez ainsi alléger le carton et garder un design épuré. Quelle que soit la formule choisie, vérifiez bien que la date, l’heure et l’adresse sont strictement identiques sur les deux faire-part."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Rassemblez vos informations",
+   "Réunissez dans une note les prénoms, le texte, les noms des familles, la date et l’heure, le nom et l’adresse du lieu ; faites vérifier l’orthographe par vos familles."
+  ],
+  [
+   "Écrivez-nous",
+   "Pour un faire-part préparé avec vos propres informations, écrivez-nous à l’adresse e-mail indiquée sur cette page."
+  ],
+  [
+   "Partagez le lien",
+   "Envoyez le lien à vos invités par message. Ajoutez ?k=Camille à la fin de l’adresse : la première carte affiche « Pour Camille » et le prénom est prérempli dans le formulaire."
+  ],
+  [
+   "Suivez les réponses",
+   "Suivez les réponses et le nombre de personnes, et envoyez un court rappel à ceux qui n’ont pas répondu avant la date limite."
+  ]
+ ],
+ "make_faq": [
+  [
+   "Faut-il une application pour ouvrir un faire-part de mariage en ligne ?",
+   "Non. Un faire-part WeddingInvite est un lien unique qui s’ouvre dans le navigateur : l’invité n’a ni application à télécharger ni compte à créer. Il est conçu pour un téléphone tenu à la verticale ; sur un grand écran d’ordinateur, il s’ouvre dans un cadre au format téléphone."
+  ],
+  [
+   "Est-ce impoli d’envoyer son faire-part de mariage par message ?",
+   "Pour la plupart des invités, un lien soigné envoyé avec un message personnel est à la fois poli et pratique. Pour les aînés attachés au papier, un bon compromis consiste à leur envoyer aussi un faire-part imprimé, tout en partageant le lien avec tout le monde."
+  ],
+  [
+   "Combien de temps avant le mariage envoyer le faire-part ?",
+   "L’usage est de six à huit semaines avant le mariage. Prévenir plus tôt les invités qui viennent de loin, puis envoyer un court rappel une semaine avant le jour J, aide chacun à s’organiser."
+  ],
+  [
+   "Puis-je m’adresser à chaque invité par son prénom ?",
+   "Oui. Ajoutez ?k=Camille à la fin du lien : la première carte du faire-part affiche « Pour Camille » et le champ du nom est déjà rempli dans le formulaire de réponse. Vous envoyez ainsi à chacun le lien qui se termine par son propre prénom."
+  ],
+  [
+   "Comment la météo s’affiche-t-elle sur le faire-part ?",
+   "La carte météo montre le jour du mariage. À 14 jours ou moins, elle tente de charger une prévision pour ce jour ; avant, elle affiche la météo relevée à la même date une année passée. Sans données, elle garde les normales de saison et précise que ce n’est pas une prévision. Données : Open-Meteo."
+  ]
+ ],
+ "engage_slug": "faire-part-fiancailles-numerique",
+ "engage_name": "Faire-part de fiançailles",
+ "engage_title": "Faire-part de fiançailles numérique : textes | WeddingInvite",
+ "engage_desc": "Faire-part de fiançailles numérique : exemples de texte, envoi dans un délai court, présentation des familles, et date, lieu et réponse dans un seul lien.",
+ "engage_h1": "Créer un faire-part de fiançailles numérique",
+ "engage_lead": "Les fiançailles s’organisent souvent en peu de temps. Un faire-part numérique en un seul lien peut partir dès que les informations sont arrêtées et réunit tout au même endroit.",
+ "engage_card": "Textes de fiançailles, présentation des familles et envoi rapide.",
+ "engage_body": [
+  [
+   "Pourquoi un faire-part de fiançailles numérique ?",
+   "Les fiançailles s’organisent le plus souvent en quelques semaines, pas en plusieurs mois. Faire concevoir, imprimer et distribuer des cartons ne rentre pas toujours dans ce calendrier. Un faire-part de fiançailles numérique, lui, peut partir dès que les informations sont arrêtées. L’invité touche le lien, voit la date et le lieu et peut enregistrer la date <b>avec le bouton « Ajouter à l’agenda »</b>. Même pour une petite réception en famille, que tout le monde consulte les mêmes informations exactes est bien moins fatigant que de tout réexpliquer au téléphone ou de le répéter dans des dizaines de messages."
+  ],
+  [
+   "Exemples de texte pour des fiançailles",
+   "Le texte des fiançailles peut être un peu plus chaleureux et plus court que celui du mariage. Un exemple : « Nous avons le bonheur de vous convier aux fiançailles de nos enfants Elif et Ege. » Un autre : « Nous nous sommes fiancés ! Venez fêter ce moment avec nous. » Précisez le type de réception : une fête, un dîner ou un simple repas de famille. Il est aussi important d’indiquer <b>qui invite</b> : dans les célébrations traditionnelles, ce sont souvent les familles ; beaucoup de couples invitent aussi en leur propre nom. Limitez le texte à deux ou trois phrases."
+  ],
+  [
+   "Présenter les deux familles",
+   "Les fiançailles sont souvent le jour où les deux familles se retrouvent pour la première fois devant un cercle plus large. Faire figurer ensemble les noms des deux familles sur le faire-part indique aux invités qui reçoit et crée un lien naturel entre des proches qui ne se connaissent pas encore. Dans un faire-part WeddingInvite, le texte et les <b>noms des familles</b> partagent la même carte. Vérifiez avec les deux familles l’orthographe, les titres et l’ordre des noms : sur ce type de faire-part, la moindre coquille se remarque et peut froisser. Faites relire le texte par chaque famille avant l’envoi."
+  ],
+  [
+   "Bien se préparer quand le délai est court",
+   "Si le temps presse, fixez d’abord ce qui ne bougera plus : la date, l’heure et le lieu. Rassemblez ensuite la liste des invités à un seul endroit et décidez comment joindre chacun. En envoyant le lien, ajoutez une petite phrase personnelle ; pour les grands-parents et les aînés, <b>prévenir d’abord par un appel</b> puis envoyer le lien est toujours apprécié. Un faire-part envoyé deux à quatre semaines avant les fiançailles suffit à la plupart des invités. Un court rappel quelques jours avant la fête remet l’heure et l’itinéraire sous les yeux de chacun."
+  ],
+  [
+   "Le même format convient aux fiançailles",
+   "Un faire-part WeddingInvite ne sert pas qu’au mariage : il convient aussi aux fiançailles. L’ouverture de la porte scellée, la musique, « Ajouter à l’agenda » sur la carte de la date, « Itinéraire » sur la carte du lieu, le formulaire de réponse et la météo du jour sont aussi au rendez-vous. En bas de la page, un <b>compte à rebours</b> indique le temps restant avant la fête. Même avec moins d’invités, savoir combien de personnes viendront compte pour le repas et le plan de table ; vous pouvez essayer le formulaire de réponse dans la démo en direct (les réponses d’exemple restent uniquement dans votre navigateur). À l’approche du mariage, vous pourrez reprendre le même style."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Fixez les informations",
+   "Définissez le type de réception, la date, l’heure, le lieu et les noms des deux familles ; vérifiez l’orthographe avec elles."
+  ],
+  [
+   "Écrivez-nous",
+   "Pour un faire-part de fiançailles préparé avec vos propres informations, écrivez-nous à l’adresse e-mail indiquée sur cette page."
+  ],
+  [
+   "Envoyez des liens personnalisés",
+   "Ajoutez ?k=Camille à la fin de l’adresse pour que chaque invité reçoive son propre lien ; la première carte affiche « Pour Camille »."
+  ],
+  [
+   "Suivez les réponses",
+   "Suivez le nombre de personnes attendues et envoyez un court rappel quelques jours avant la fête à ceux qui n’ont pas répondu."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "Combien de temps à l’avance envoyer un faire-part de fiançailles ?",
+   "Il n’y a pas de règle stricte. Comme les fiançailles se préparent généralement plus vite qu’un mariage, un envoi deux à quatre semaines avant laisse assez de temps à la plupart des invités. Prévenez plus tôt ceux qui viennent de loin."
+  ],
+  [
+   "Qui envoie le faire-part de fiançailles ?",
+   "Cela dépend des traditions et des familles. L’invitation est souvent faite au nom de la famille qui reçoit, ou des deux familles ensemble ; les textes où le couple invite en son propre nom sont aussi courants. L’essentiel est que l’on comprenne clairement qui invite."
+  ],
+  [
+   "Un faire-part numérique est-il aussi élégant qu’un faire-part papier ?",
+   "Avec un texte soigné et un beau design, oui. Un faire-part WeddingInvite s’ouvre sur une porte de marbre scellée que l’invité ouvre lui-même, avec une musique en fond. Pour les aînés attachés au papier, vous pouvez aussi prévoir un faire-part imprimé."
+  ],
+  [
+   "Peut-on utiliser le même faire-part pour les fiançailles et le mariage ?",
+   "Mieux vaut un faire-part par célébration, car la date, le lieu et le texte diffèrent. Garder le même style pour les deux offre en revanche une expérience cohérente aux invités, et les deux faire-part se répondent."
+  ],
+  [
+   "Comment les invités ouvrent-ils le faire-part numérique ?",
+   "L’invité touche le lien reçu par message et le faire-part s’ouvre dans le navigateur de son téléphone, sans application ni compte. Il balaie les feuilles du doigt ou souffle après avoir autorisé le micro, touche le sceau, et la porte s’ouvre."
+  ]
+ ],
+ "rsvp_slug": "rsvp-mariage",
+ "rsvp_name": "RSVP mariage",
+ "rsvp_title": "RSVP mariage : le formulaire de réponse | WeddingInvite",
+ "rsvp_desc": "Que veut dire RSVP, que demander sur le carton réponse du mariage ? Date limite, relances et estimation du nombre d’invités : conseils pratiques.",
+ "rsvp_h1": "RSVP mariage : bien recueillir les réponses des invités",
+ "rsvp_lead": "Savoir combien de personnes viendront, c’est la base du plan de table, du traiteur et du budget. Voici comment organiser le RSVP de votre mariage et recueillir chaque réponse.",
+ "rsvp_card": "Le sens de RSVP, les questions à poser, date limite et relances.",
+ "rsvp_body": [
+  [
+   "Que veut dire RSVP ?",
+   "RSVP est l’abréviation de « répondez s'il vous plaît ». La formule vient du français mais s’emploie dans le monde entier ; en France, on lit aussi souvent « Réponse souhaitée avant le… ». Dans tous les cas, la demande est la même : l’invité doit indiquer s’il sera présent ou non avant la date donnée. Autrefois, on renvoyait un carton réponse ou l’on téléphonait ; aujourd’hui, <b>un formulaire de réponse numérique</b> qui rassemble les réponses dans une liste peut faire le même travail en quelques secondes, plutôt que des notes éparpillées. L’invité répond là où il a ouvert le faire-part."
+  ],
+  [
+   "Pourquoi les réponses comptent autant",
+   "Une grande partie de l’organisation dépend du nombre d’invités : tables et chaises, traiteur, plan de table, et même les transports. Les lieux de réception et les traiteurs demandent généralement un chiffre définitif un certain temps avant le mariage ; vérifiez le délai exact dans votre propre contrat. <b>Un chiffre estimé au hasard</b> mène soit à des tables vides, soit à un repas insuffisant. Des réponses recueillies tôt allègent les dernières semaines et vous permettent de faire le plan de table sereinement, en sachant qui sera là. Vous arrêtez aussi votre budget sur la base du nombre réel."
+  ],
+  [
+   "Quelles questions poser dans le formulaire",
+   "Un bon formulaire de réponse est court : l’invité doit pouvoir le remplir en moins d’une minute. Les questions essentielles sont : <b>prénom et nom</b>, présence ou absence, et nombre de personnes. Un champ facultatif pour un message permet de signaler une situation particulière ou de laisser un mot de félicitations. Le formulaire d’un faire-part WeddingInvite pose exactement ces questions : prénom et nom, « J’y serai avec joie » ou « Je ne pourrai pas », un nombre de personnes de 1 à 10 et un message facultatif. Chaque question en trop augmente le risque d’abandon en cours de route."
+  ],
+  [
+   "Comment fixer la date limite de réponse",
+   "Une approche sûre consiste à placer la date limite une à deux semaines avant le jour où le lieu ou le traiteur attend le chiffre définitif ; il vous reste ainsi du temps pour les réponses tardives et les relances. Écrivez clairement la date sur le faire-part, par exemple : « Réponse souhaitée avant le 15 mai. » Un jour précis plutôt que <b>des formules vagues</b> comme « dès que possible » simplifie la tâche des invités. Si vous avez envoyé le faire-part six à huit semaines avant, une date limite trois à quatre semaines avant le mariage convient à la plupart des organisations."
+  ],
+  [
+   "Relancer et calculer le nombre d’invités",
+   "À chaque mariage, certains invités ne répondent pas, le plus souvent par oubli et non par manque d’intérêt. Un message court et aimable avec le lien du faire-part, quelques jours avant la date limite, suffit généralement. Pour le nombre d’invités, additionnez les personnes indiquées dans chaque réponse positive et tenez <b>les absents</b> sur une liste à part. Appeler ceux qui n’ont toujours pas répondu à la date limite réduit au minimum les incertitudes. Au moment de donner le chiffre définitif, voyez avec le lieu de réception s’il convient de garder une petite marge."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Fixez les informations et la date limite",
+   "Préparez les informations du faire-part et choisissez une date limite en fonction du jour où le lieu attend le chiffre définitif."
+  ],
+  [
+   "Essayez le formulaire",
+   "Vous pouvez essayer le formulaire de réponse sur la cinquième carte de la démo en direct. Pour votre propre faire-part, écrivez-nous à l’adresse e-mail de cette page."
+  ],
+  [
+   "Partagez des liens personnalisés",
+   "Ajoutez ?k=Camille à la fin de l’adresse : le prénom est prérempli dans le formulaire, l’invité choisit seulement sa présence et le nombre de personnes."
+  ],
+  [
+   "Suivez les réponses et relancez",
+   "Additionnez les personnes au fil des réponses et renvoyez le lien avec un petit mot à ceux qui n’ont pas répondu avant la date limite."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "Que signifie RSVP sur un faire-part de mariage ?",
+   "RSVP signifie « répondez s'il vous plaît ». Quand la mention figure sur un faire-part, les hôtes vous demandent d’indiquer si vous serez présent avant la date donnée. On trouve aussi, avec le même sens, « Réponse souhaitée avant le… »."
+  ],
+  [
+   "Faut-il répondre au RSVP même si l’on ne vient pas ?",
+   "Oui. Signaler son absence est aussi important que confirmer sa présence : le couple peut ainsi arrêter le nombre d’invités et ne pas vous réserver une place qui restera vide. Une réponse courte et aimable suffit."
+  ],
+  [
+   "Un invité peut-il modifier sa réponse ensuite ?",
+   "Dans la démo en direct de WeddingInvite, la réponse enregistrée est mémorisée dans ce navigateur et l’option « Modifier ma réponse » apparaît pour changer sa présence ou le nombre de personnes. Les réponses d’exemple ne sont pas envoyées au couple. En cas de changement de dernière minute, prévenez aussi le couple."
+  ],
+  [
+   "Comment demander le nombre de personnes dans le formulaire ?",
+   "Le plus simple est de le proposer sous forme de choix dans le formulaire ; dans WeddingInvite, l’invité choisit un nombre de 1 à 10. Préciser dans le message qui est invité (une personne, un couple ou toute la famille) évite toute confusion."
+  ],
+  [
+   "Combien de temps avant le mariage fixer la date limite du RSVP ?",
+   "Il n’y a pas de règle fixe : tout dépend du jour où le lieu ou le traiteur attend le chiffre définitif. Placer la date limite une à deux semaines avant ce jour laisse le temps pour les réponses tardives et les relances."
+  ]
+ ]
+}

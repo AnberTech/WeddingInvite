@@ -28,6 +28,14 @@ The demo is available in 16 languages:
 - ru: https://anbertech.github.io/WeddingInvite/ru/
 - zh-Hans: https://anbertech.github.io/WeddingInvite/zh-hans/
 
+## Guides
+
+- [Online wedding invitation](https://anbertech.github.io/WeddingInvite/en/online-wedding-invitation/): What to include, wording ideas, and when to send the link.
+- [Digital engagement invitation](https://anbertech.github.io/WeddingInvite/en/digital-engagement-invitation/): Engagement wording, introducing families, and sending on short notice.
+- [Wedding RSVP form](https://anbertech.github.io/WeddingInvite/en/wedding-rsvp-form/): What RSVP means, what to ask, reply-by dates, and reminders.
+
+Guides are available in 16 languages (same paths under each language folder).
+
 ## Contact
 
 - Developer: AnberTech, https://anbertech.github.io/

@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Stap voor stap",
+ "g_faq_h2": "Veelgestelde vragen",
+ "g_cta_h2": "Bekijk de live demo",
+ "g_cta_p": "Open zelf de verzegelde deur: probeer de opening, de kaarten, het RSVP-formulier en het aftellen in de voorbeelduitnodiging. Het formulier in de demo is alleen om te proberen; je antwoord wordt nergens naartoe gestuurd.",
+ "g_cta_btn": "Open de live demo",
+ "g_contact": "Een eigen uitnodiging? Mail ons:",
+ "g_other_h2": "Meer gidsen",
+ "g_lang": "Taal",
+ "g_home": "Home",
+ "make_slug": "digitale-trouwkaart",
+ "make_name": "Digitale trouwkaart",
+ "make_title": "Digitale trouwkaart maken: tips & teksten | WeddingInvite",
+ "make_desc": "Wat zet je op een digitale trouwkaart, hoe schrijf je de tekst en wanneer verstuur je de link? Tips, voorbeeldteksten en combineren met een papieren kaart.",
+ "make_h1": "Een digitale trouwkaart maken: zo doe je dat",
+ "make_lead": "Een digitale trouwkaart zet de datum, de locatie, de route en het RSVP-formulier samen in één link die je gasten op hun telefoon openen. Dit hoort erop, en zo kies je het juiste moment.",
+ "make_card": "Wat erop hoort, voorbeeldteksten en wanneer je de link verstuurt.",
+ "make_body": [
+  [
+   "Wat er zeker op je trouwkaart moet",
+   "Een goede trouwkaart beantwoordt de vragen van je gasten voordat ze die stellen. De basislijst is kort: <b>jullie namen</b>, wie uitnodigt, de datum en het tijdstip, en de naam en het adres van de locatie. Daarna voeg je een manier toe om te reageren met een uiterste datum en, als dat nodig is, een korte opmerking over de dresscode of kinderen. Op een telefoonscherm raken lange alinea’s ondergesneeuwd; als elk gegeven een eigen plek heeft, leest het makkelijker. In een uitnodiging van WeddingInvite staan deze gegevens op zeven kaarten: de namen, de uitnodigingstekst en de families, de datum, de locatie, het RSVP-formulier, het weer op de trouwdag en een afsluiting."
+  ],
+  [
+   "De tekst schrijven: voorbeelden",
+   "De tekst mag formeel of juist luchtig zijn; het belangrijkste is dat hij klinkt als jullie twee. Een klassiek voorbeeld: “Samen met onze ouders nodigen wij u van harte uit om onze trouwdag met ons te vieren.” Persoonlijker: “Wij gaan trouwen! En we willen deze dag graag delen met de mensen van wie we houden.” Houd het bij twee of drie zinnen en laat datum, tijd en adres op een eigen plek staan in plaats van ze in de tekst te verstoppen. De namen van de ouders onder de tekst zijn een traditionele toets. Lees de tekst daarna hardop voor: <b>klinkt hij natuurlijk</b>, dan zit je goed."
+  ],
+  [
+   "Denk aan de ervaring van je gasten",
+   "De eerste seconden tellen. Een pagina die voor de telefoon is ontworpen en makkelijk leest, werkt voor gasten van elke leeftijd. Een uitnodiging van WeddingInvite opent met <b>een verzegelde marmeren deur</b>: de gast veegt de blaadjes weg met een vinger, of blaast ze weg na toestemming voor de microfoon, tikt op het zegel en de deur gaat open. Op de achtergrond speelt muziek, die met een knop uit kan. Onderaan telt een aftelklok de dagen, uren, minuten en seconden tot de bruiloft af. Dankzij “Toevoegen aan agenda” op de datumkaart en “Routebeschrijving” op de locatiekaart hoeft niemand op de dag zelf naar gegevens te zoeken."
+  ],
+  [
+   "Wanneer en hoe je de link verstuurt",
+   "Gebruikelijk is om de uitnodiging zes tot acht weken voor de bruiloft te versturen; gasten die uit een andere stad of uit het buitenland komen, laat je het liefst eerder weten dat de datum vaststaat, bijvoorbeeld met een save the date. De link <b>in een persoonlijk bericht</b> sturen in plaats van in een grote groepsapp komt attenter over en vergroot de kans op een reactie. Schrijf er een korte zin in je eigen woorden bij en zet de link eronder. Een week voor de bruiloft kun je dezelfde link nog eens delen als herinnering; tijd, adres en route zijn dan voor iedereen met één tik terug te vinden."
+  ],
+  [
+   "Combineren met een papieren trouwkaart",
+   "Een digitale trouwkaart hoeft de papieren kaart niet te vervangen. Veel stellen sturen opa’s, oma’s en naaste familie een gedrukte kaart en de rest van de gasten de link. Een <b>QR-code</b> op de kaart die naar de online uitnodiging leidt, verbindt beide: wie de kaart in handen heeft, scant de code en komt bij de route, de agenda en het RSVP-formulier. Zo kun je details van de gedrukte kaart weglaten en het ontwerp rustig houden. Welke combinatie je ook kiest: controleer goed of datum, tijd en adres op beide uitnodigingen precies hetzelfde zijn."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Verzamel je gegevens",
+   "Zet de namen, de tekst, de namen van de families, datum en tijd, en de naam en het adres van de locatie in één notitie; laat de spelling door je familie controleren."
+  ],
+  [
+   "Neem contact op",
+   "Wil je een uitnodiging laten maken met je eigen gegevens? Mail ons op het e-mailadres op deze pagina."
+  ],
+  [
+   "Deel de link",
+   "Stuur de link per bericht naar je gasten. Zet je ?k=Sanne achter het adres, dan staat er op de eerste kaart “Beste Sanne” en is de naam in het formulier al ingevuld."
+  ],
+  [
+   "Houd de reacties bij",
+   "Houd de antwoorden en het aantal gasten in de gaten en stuur iedereen die nog niet heeft gereageerd vóór de uiterste datum een korte herinnering."
+  ]
+ ],
+ "make_faq": [
+  [
+   "Hebben gasten een app nodig voor een digitale trouwkaart?",
+   "Nee. Een uitnodiging van WeddingInvite is één link die in de browser opent; je gasten hoeven geen app te downloaden en geen account aan te maken. Hij is ontworpen voor een rechtop gehouden telefoon; op een breed computerscherm opent hij in een kader met telefoonformaat."
+  ],
+  [
+   "Is het onbeleefd om je trouwkaart via WhatsApp te sturen?",
+   "Voor de meeste gasten is een verzorgde link met een persoonlijk bericht beleefd en praktisch tegelijk. Voor oudere familieleden die een kaart in handen willen hebben, is het een goede middenweg om ook een gedrukte kaart te sturen en iedereen daarnaast de link te geven."
+  ],
+  [
+   "Hoe lang van tevoren verstuur je de trouwkaart?",
+   "Gebruikelijk is zes tot acht weken voor de bruiloft. Gasten die van ver komen eerder op de hoogte brengen en een week voor de bruiloft een korte herinnering sturen, helpt iedereen om te plannen."
+  ],
+  [
+   "Kan ik elke gast met naam aanspreken?",
+   "Ja. Zet ?k=Sanne achter de link, dan staat er op de eerste kaart van de uitnodiging “Beste Sanne” en is het naamveld in het RSVP-formulier al ingevuld. Zo stuur je elke gast een link die eindigt op zijn of haar eigen naam."
+  ],
+  [
+   "Hoe werkt de weerkaart in de uitnodiging?",
+   "De weerkaart toont de trouwdag. Vanaf 14 dagen ervoor probeert de kaart een verwachting voor die dag te laden; daarvoor zie je het weer dat op dezelfde datum in een eerder jaar is gemeten. Zonder gegevens blijven typische seizoenswaarden staan, met de vermelding dat het geen verwachting is. Bron: Open-Meteo."
+  ]
+ ],
+ "engage_slug": "digitale-verlovingskaart",
+ "engage_name": "Digitale verlovingskaart",
+ "engage_title": "Digitale verlovingskaart: tekst en tips | WeddingInvite",
+ "engage_desc": "Een digitale verlovingskaart maken: voorbeeldteksten, snel versturen, beide families voorstellen en datum, locatie en RSVP in één link.",
+ "engage_h1": "Een digitale verlovingskaart maken",
+ "engage_lead": "Een verlovingsfeest wordt vaak op korte termijn gepland. Een digitale verlovingskaart in één link kan de deur uit zodra de gegevens vaststaan en zet alle informatie bij elkaar.",
+ "engage_card": "Tekst voor de verloving, families voorstellen en snel versturen.",
+ "engage_body": [
+  [
+   "Waarom een digitale verlovingskaart?",
+   "Een verlovingsfeest wordt meestal in een paar weken geregeld, niet in maanden. Kaarten laten ontwerpen, drukken en versturen past niet altijd in die planning. Een digitale verlovingskaart kan daarentegen de deur uit zodra de gegevens vaststaan. De gast tikt op de link, ziet de datum en de locatie en kan de datum opslaan <b>met de knop “Toevoegen aan agenda”</b>. Zelfs bij een klein feest in familiekring is het veel minder vermoeiend als iedereen dezelfde, juiste informatie ziet, dan wanneer je alles telefonisch moet uitleggen of in tientallen berichten moet herhalen."
+  ],
+  [
+   "Voorbeeldteksten voor een verlovingskaart",
+   "De tekst voor een verloving mag iets warmer en korter zijn dan een trouwkaart. Een voorbeeld: “Met veel plezier nodigen wij u uit voor het verlovingsfeest van onze kinderen Elif en Ege.” Een ander: “Wij zijn verloofd! Kom het met ons vieren.” Maak duidelijk wat voor gelegenheid het is: een feest, een diner of een klein samenzijn met familie. Belangrijk is ook <b>wie er uitnodigt</b>: bij traditionele vieringen zijn dat vaak de families, maar veel stellen nodigen ook in eigen naam uit. Houd de tekst bij twee of drie zinnen en laat datum, tijd en plaats op hun eigen kaart staan."
+  ],
+  [
+   "Beide families voorstellen",
+   "De verloving is vaak de dag waarop beide families voor het eerst samen voor een grotere groep staan. Als de namen van beide families samen op de uitnodiging staan, zien gasten wie de gastheer is en hebben familieleden die elkaar nog niet kennen meteen een natuurlijk aanknopingspunt. In een uitnodiging van WeddingInvite staan de tekst en de <b>namen van de families</b> op dezelfde kaart. Controleer met beide families de spelling, titels en volgorde van de namen; bij dit soort uitnodigingen valt zelfs een klein tikfoutje op en kan het kwetsen. Laat de tekst voor het versturen door beide kanten lezen."
+  ],
+  [
+   "Voorbereiden als de tijd krap is",
+   "Is de tijd krap, leg dan eerst vast wat niet meer verandert: de datum, het tijdstip en de locatie. Zet daarna de gastenlijst op één plek en bepaal hoe je ieder bereikt. Schrijf bij de link een korte persoonlijke zin; vooral bij opa’s, oma’s en oudere familieleden valt <b>eerst even bellen</b> en daarna de link sturen goed. Een uitnodiging die twee tot vier weken voor de verloving binnenkomt, is voor de meeste gasten genoeg. Een korte herinnering een paar dagen van tevoren brengt de tijd en de route weer onder ieders aandacht."
+  ],
+  [
+   "Hetzelfde formaat werkt ook voor de verloving",
+   "Een uitnodiging van WeddingInvite is niet alleen voor de bruiloft; ook voor een verloving werkt hij net zo goed. De verzegelde deur, de muziek, “Toevoegen aan agenda” op de datumkaart, “Routebeschrijving” op de locatiekaart, het RSVP-formulier en het weer op de dag zelf zitten er allemaal in. Onderaan laat een <b>aftelklok</b> zien hoe lang het nog duurt tot het feest. Ook met minder gasten is het voor eten en tafelschikking belangrijk te weten hoeveel mensen er komen; je kunt het RSVP-formulier uitproberen in de live demo (voorbeeldantwoorden blijven alleen in je eigen browser). Komt de bruiloft dichterbij, dan kun je dezelfde stijl opnieuw gebruiken."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Leg de gegevens vast",
+   "Bepaal het soort feest, de datum, tijd, locatie en de namen van beide families; controleer de spelling samen met de families."
+  ],
+  [
+   "Neem contact op",
+   "Wil je een verlovingskaart laten maken met je eigen gegevens? Mail ons op het e-mailadres op deze pagina."
+  ],
+  [
+   "Stuur persoonlijke links",
+   "Zet ?k=Sanne achter het adres, zodat elke gast een eigen link krijgt; op de eerste kaart staat dan “Beste Sanne”."
+  ],
+  [
+   "Houd bij wie er komt",
+   "Volg hoeveel mensen er komen en stuur een paar dagen voor het feest een korte herinnering aan wie nog niet heeft gereageerd."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "Hoe lang van tevoren verstuur je een verlovingskaart?",
+   "Daar is geen vaste regel voor. Omdat een verloving meestal sneller wordt gepland dan een bruiloft, geeft versturen twee tot vier weken van tevoren de meeste gasten genoeg tijd. Gasten die van ver komen, laat je het beter eerder weten."
+  ],
+  [
+   "Wie nodigt uit voor het verlovingsfeest?",
+   "Dat hangt af van traditie en familie. Vaak nodigt de gastgevende familie uit of doen beide families het samen; teksten waarin het stel zelf uitnodigt, zijn net zo gebruikelijk. Belangrijk is dat uit de tekst duidelijk blijkt wie er uitnodigt."
+  ],
+  [
+   "Is een digitale verlovingskaart net zo stijlvol als een gedrukte?",
+   "Met een zorgvuldige tekst en een mooi ontwerp: ja. Een uitnodiging van WeddingInvite opent met een verzegelde marmeren deur die de gast zelf opent, met muziek op de achtergrond. Voor oudere familieleden die van papier houden, kun je ook een gedrukte kaart laten maken."
+  ],
+  [
+   "Kan ik dezelfde uitnodiging gebruiken voor verloving en bruiloft?",
+   "Een aparte uitnodiging per feest is beter, want datum, locatie en tekst verschillen. Dezelfde stijl gebruiken voor beide feesten geeft je gasten wel een samenhangende ervaring, en de twee uitnodigingen vullen elkaar mooi aan."
+  ],
+  [
+   "Hoe openen gasten de digitale uitnodiging?",
+   "De gast tikt op de link in het bericht en de uitnodiging opent in de browser van de telefoon, zonder app of account. Hij veegt de blaadjes weg met een vinger of blaast na toestemming voor de microfoon, tikt op het zegel en de deur gaat open."
+  ]
+ ],
+ "rsvp_slug": "rsvp-bruiloft",
+ "rsvp_name": "RSVP bruiloft",
+ "rsvp_title": "RSVP bruiloft: wat vraag je en wanneer? | WeddingInvite",
+ "rsvp_desc": "Wat betekent RSVP en wat vraag je in het RSVP-formulier voor je bruiloft? Tips voor de uiterste datum, herinneringen en het plannen van het aantal gasten.",
+ "rsvp_h1": "RSVP bruiloft: zo verzamel je alle reacties",
+ "rsvp_lead": "Weten hoeveel gasten er komen is de basis voor tafels, catering en budget. Zo richt je de RSVP voor je bruiloft in en verzamel je elke aan- en afmelding.",
+ "rsvp_card": "Wat RSVP betekent, wat je vraagt, uiterste datum en herinneringen.",
+ "rsvp_body": [
+  [
+   "Wat betekent RSVP?",
+   "RSVP is de afkorting van het Franse “répondez s'il vous plaît”, wat “graag antwoord” betekent. Op Nederlandse trouwkaarten zie je zowel RSVP als zinnen als “Graag horen we vóór 15 mei of je erbij bent.” Het verzoek is steeds hetzelfde: de gast laat weten of hij komt of niet. Staat er een datum bij, dan hoort het antwoord vóór die dag bij het bruidspaar te zijn. Vroeger ging dat met een antwoordkaartje of een telefoontje; tegenwoordig kan <b>een digitaal RSVP-formulier</b> dat de antwoorden in één lijst verzamelt hetzelfde doen in een paar seconden, in plaats van losse briefjes. En de gast antwoordt meteen waar hij de uitnodiging opent."
+  ],
+  [
+   "Waarom reacties zo belangrijk zijn",
+   "Veel onderdelen van de bruiloft hangen af van het aantal gasten: tafels en stoelen, catering, de tafelschikking en zelfs vervoer. Locaties en cateraars willen meestal enige tijd voor de bruiloft het definitieve aantal weten; hoe lang van tevoren, staat in je eigen contract. <b>Een geschat aantal</b> leidt tot lege tafels of te weinig eten. Vroeg verzamelde reacties halen de druk van de laatste weken en laten je de tafelschikking rustig maken, omdat je weet wie er komt. Ook je budget leg je dan vast op basis van het echte aantal."
+  ],
+  [
+   "Wat vraag je in het RSVP-formulier?",
+   "Een goed RSVP-formulier is kort: je gast moet het binnen een minuut kunnen invullen. De basisvragen zijn: <b>voor- en achternaam</b>, of hij komt en met hoeveel personen. Een optioneel veld voor een bericht geeft ruimte om iets bijzonders te melden of een felicitatie achter te laten. Het formulier in een uitnodiging van WeddingInvite vraagt precies dat: voor- en achternaam, “Ik kom graag” of “Helaas verhinderd”, een aantal personen van 1 tot 10 en een optioneel bericht. Elke extra vraag vergroot de kans dat iemand halverwege afhaakt."
+  ],
+  [
+   "De uiterste datum bepalen",
+   "Een veilige aanpak is de uiterste datum een tot twee weken te leggen vóór de dag waarop de locatie of cateraar het definitieve aantal nodig heeft; zo houd je tijd over voor late reacties en herinneringen. Zet de datum duidelijk op de uitnodiging, bijvoorbeeld: “Graag je reactie vóór 15 mei.” Een concrete dag in plaats van <b>vage formuleringen</b> als “zo snel mogelijk” maakt het je gasten makkelijker. Heb je de uitnodiging zes tot acht weken van tevoren verstuurd, dan volstaat voor de meeste plannen een uiterste datum drie tot vier weken voor de bruiloft."
+  ],
+  [
+   "Herinneren en het aantal gasten plannen",
+   "Bij elke bruiloft zijn er gasten die niet reageren, en meestal komt dat door vergeetachtigheid en niet door desinteresse. Een kort, vriendelijk bericht met de link naar de uitnodiging, een paar dagen voor de uiterste datum, is vaak genoeg. Voor het aantal gasten tel je de personen van alle aanmeldingen op en houd je <b>de afmeldingen</b> op een aparte lijst bij. Wie na de uiterste datum nog steeds niet heeft gereageerd, bel je het beste even op; zo blijven er nauwelijks open plekken over. Overleg met de locatie of je bij het definitieve aantal een kleine marge aanhoudt."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Bepaal gegevens en uiterste datum",
+   "Bereid de gegevens voor de uitnodiging voor en kies een uiterste datum op basis van de dag waarop de locatie het definitieve aantal nodig heeft."
+  ],
+  [
+   "Probeer het formulier",
+   "Je kunt het RSVP-formulier uitproberen op de vijfde kaart van de live demo. Voor je eigen uitnodiging mail je ons op het e-mailadres op deze pagina."
+  ],
+  [
+   "Deel persoonlijke links",
+   "Zet ?k=Sanne achter het adres; opent de gast het formulier, dan is de naam al ingevuld en kiest hij alleen of hij komt en met hoeveel."
+  ],
+  [
+   "Volg de reacties en herinner",
+   "Tel het aantal personen op naarmate de reacties binnenkomen en stuur de link met een korte notitie opnieuw naar wie vóór de uiterste datum niet heeft gereageerd."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "Wat betekent RSVP op een trouwkaart?",
+   "RSVP staat voor “répondez s'il vous plaît”, Frans voor “graag antwoord”. Staat het op een uitnodiging, dan vraagt het bruidspaar je om vóór de genoemde datum te laten weten of je komt. Soms staat er in plaats daarvan gewoon “Graag uw reactie vóór…”."
+  ],
+  [
+   "Moet ik ook reageren als ik niet kom?",
+   "Ja. Afmelden is net zo belangrijk als aanmelden: zo kan het bruidspaar het aantal gasten vastleggen en houdt het geen plek voor je vrij die leeg blijft. Een kort, vriendelijk antwoord is genoeg."
+  ],
+  [
+   "Kunnen gasten hun antwoord later nog wijzigen?",
+   "In de live demo van WeddingInvite wordt het antwoord na het opslaan in die browser onthouden en verschijnt “Antwoord wijzigen”, zodat de gast opnieuw kan kiezen of hij komt en met hoeveel personen. Voorbeeldantwoorden gaan niet naar het bruidspaar. Veranderen de plannen op het laatste moment, laat het bruidspaar het dan ook even weten."
+  ],
+  [
+   "Hoe vraag je in het formulier naar het aantal personen?",
+   "Het makkelijkst is een keuzeveld in het formulier; in WeddingInvite kiest de gast een aantal van 1 tot 10. Zet in je bericht duidelijk voor wie de uitnodiging geldt (één persoon, een stel of het hele gezin), dan voorkom je verwarring."
+  ],
+  [
+   "Hoe lang voor de bruiloft moet de uiterste RSVP-datum liggen?",
+   "Er is geen vaste regel; doorslaggevend is wanneer de locatie of cateraar het definitieve aantal nodig heeft. Leg je de uiterste datum een tot twee weken daarvoor, dan houd je ruimte voor late reacties en herinneringen."
+  ]
+ ]
+}

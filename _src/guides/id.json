@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Langkah demi langkah",
+ "g_faq_h2": "Pertanyaan yang sering diajukan",
+ "g_cta_h2": "Lihat contoh langsung",
+ "g_cta_p": "Buka sendiri pintu bersegelnya: coba animasi pembuka, kartu-kartu, formulir RSVP, dan hitung mundur di contoh undangan langsung. Formulir di contoh hanya untuk dicoba, jawaban Anda tidak dikirim ke mana pun.",
+ "g_cta_btn": "Buka contoh langsung",
+ "g_contact": "Ingin undangan sendiri? Tulis ke:",
+ "g_other_h2": "Panduan lainnya",
+ "g_lang": "Bahasa",
+ "g_home": "Beranda",
+ "make_slug": "undangan-pernikahan-digital",
+ "make_name": "Undangan pernikahan digital",
+ "make_title": "Undangan Pernikahan Digital: Cara Membuat | WeddingInvite",
+ "make_desc": "Apa saja isi undangan pernikahan digital, bagaimana menulis kata-kata undangan, dan kapan mengirim link? Tips dan contoh, termasuk dengan undangan cetak.",
+ "make_h1": "Cara membuat undangan pernikahan digital",
+ "make_lead": "Undangan pernikahan digital terbuka lewat satu link dan menyajikan tanggal, lokasi, petunjuk arah, serta konfirmasi kehadiran di satu tempat. Berikut apa saja yang perlu dimuat dan kapan sebaiknya dikirim.",
+ "make_card": "Isi wajib undangan, contoh kata-kata, dan waktu yang tepat mengirim link.",
+ "make_body": [
+  [
+   "Isi wajib undangan pernikahan",
+   "Undangan yang baik sudah menjawab pertanyaan tamu sebelum mereka bertanya. Daftar dasarnya singkat: <b>nama kedua mempelai</b>, keluarga yang mengundang, tanggal dan jam, nama tempat acara, serta alamat lengkap. Anda bisa menambahkan cara konfirmasi kehadiran beserta batas waktunya, dan bila perlu catatan singkat soal busana atau anak-anak. Di layar ponsel, paragraf panjang mudah terlewat; lebih nyaman jika setiap informasi punya bagiannya sendiri. Dalam undangan pernikahan digital WeddingInvite, informasi ini tersusun dalam tujuh kartu: nama, kata-kata undangan dan keluarga, tanggal, lokasi, formulir RSVP, cuaca hari itu, dan kartu penutup."
+  ],
+  [
+   "Cara menulis kata-kata undangan: contoh",
+   "Kata-kata undangan boleh resmi atau santai; yang penting mencerminkan suara mempelai dan keluarga. Contoh yang resmi: “Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu.” Contoh yang lebih hangat: “Kami akan memulai perjalanan baru dan ingin merayakannya bersama orang-orang tersayang.” Cukup dua atau tiga kalimat; tampilkan tanggal, jam, dan alamat di bagian tersendiri, jangan diselipkan di dalam kalimat. Nama orang tua di bawah teks adalah sentuhan tradisional. Bacalah teksnya dengan suara keras: jika <b>terdengar wajar</b>, Anda sudah di jalur yang benar."
+  ],
+  [
+   "Pikirkan pengalaman tamu",
+   "Beberapa detik pertama setelah undangan dibuka sangat menentukan. Halaman yang dirancang untuk ponsel dan mudah dibaca tidak akan menyulitkan tamu dari segala usia. Undangan WeddingInvite terbuka dengan <b>pintu marmer bersegel</b>: tamu menyapu dedaunan dengan jari atau, setelah mengizinkan mikrofon, meniupnya, lalu menyentuh segel dan pintu pun terbuka. Musik mengalun di latar dan bisa dimatikan dengan satu tombol. Di bagian bawah halaman tampil hitung mundur hari, jam, menit, dan detik menuju hari pernikahan. Berkat tombol “Simpan ke kalender” di kartu tanggal dan “Petunjuk arah” di kartu lokasi, tamu tidak perlu mencari-cari informasi pada hari H."
+  ],
+  [
+   "Kapan dan bagaimana mengirim link?",
+   "Kebiasaan yang umum adalah mengirim undangan enam sampai delapan minggu sebelum hari pernikahan; tamu dari luar kota atau luar negeri sebaiknya diberi kabar lebih awal. Mengirim link lewat <b>pesan pribadi</b>, bukan di grup yang ramai, terasa lebih sopan dan memperbesar peluang mendapat jawaban. Tulis pengantar singkat dengan kalimat Anda sendiri, lalu taruh link di bawahnya. Seminggu sebelum acara, Anda bisa membagikan link yang sama dengan pengingat singkat; tamu dapat kembali menemukan jam, alamat, dan petunjuk arah dengan sekali sentuh."
+  ],
+  [
+   "Dipadukan dengan undangan cetak",
+   "Undangan digital tidak harus menggantikan undangan cetak. Banyak pasangan mencetak undangan untuk orang tua, sesepuh, dan keluarga dekat, sementara tamu lainnya menerima link. Menambahkan <b>kode QR</b> yang mengarah ke undangan digital pada undangan cetak menggabungkan keduanya: tamu yang memegang kartu cukup memindai kode untuk membuka petunjuk arah, kalender, dan formulir RSVP. Dengan begitu, detail di kartu cetak bisa dikurangi dan desainnya tetap sederhana. Apa pun pilihan Anda, pastikan tanggal, jam, dan alamat di kedua undangan benar-benar sama."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Siapkan informasi",
+   "Kumpulkan nama, kata-kata undangan, nama orang tua, tanggal dan jam, nama tempat acara, serta alamatnya dalam satu catatan; periksa ejaannya bersama keluarga."
+  ],
+  [
+   "Hubungi kami",
+   "Untuk undangan yang dibuat dengan data Anda sendiri, kirim email kepada kami ke alamat yang tertera di halaman ini."
+  ],
+  [
+   "Bagikan link",
+   "Kirim link ke tamu lewat pesan. Jika Anda menambahkan ?k=Budi di akhir alamat, kartu pertama akan menampilkan “Kepada Yth. Budi” dan nama di formulir sudah terisi."
+  ],
+  [
+   "Pantau konfirmasi kehadiran",
+   "Pantau jumlah tamu berdasarkan jawaban; kirim pengingat singkat kepada yang belum menjawab sebelum batas waktu."
+  ]
+ ],
+ "make_faq": [
+  [
+   "Apakah perlu mengunduh aplikasi untuk undangan pernikahan digital?",
+   "Tidak. Undangan WeddingInvite adalah satu link yang dibuka di browser; tamu tidak perlu mengunduh aplikasi atau mendaftar. Tampilannya dirancang untuk layar ponsel yang tegak; di layar komputer yang lebar, undangan terbuka dalam bingkai berproporsi ponsel."
+  ],
+  [
+   "Apakah mengirim undangan pernikahan lewat pesan itu tidak sopan?",
+   "Link yang disiapkan dengan rapi dan dikirim lewat pesan pribadi adalah undangan yang sopan sekaligus praktis bagi sebagian besar tamu. Untuk orang tua dan sesepuh yang menghargai kartu, Anda bisa menyiapkan undangan cetak dan tetap mengirim link kepada semua tamu."
+  ],
+  [
+   "Berapa lama sebelum pernikahan link undangan dikirim?",
+   "Kebiasaan umumnya enam sampai delapan minggu sebelum hari pernikahan. Memberi kabar lebih awal kepada tamu dari jauh dan mengirim pengingat singkat seminggu sebelum acara memudahkan tamu membuat rencana."
+  ],
+  [
+   "Bisakah saya menyapa setiap tamu dengan namanya?",
+   "Bisa. Jika Anda menambahkan ?k=Budi di akhir link, kartu pertama undangan akan menampilkan “Kepada Yth. Budi” dan kolom nama di formulir RSVP sudah terisi. Jadi setiap tamu bisa menerima link dengan namanya sendiri."
+  ],
+  [
+   "Bagaimana cuaca ditampilkan di undangan?",
+   "Kartu cuaca menampilkan hari pernikahan. Jika hari H tinggal 14 hari atau kurang, undangan mencoba memuat prakiraan untuk hari itu; sebelumnya, tampil cuaca terukur pada tanggal yang sama di salah satu tahun lalu. Jika data tidak termuat, kartu menampilkan nilai normal musiman dan menyebut bahwa itu bukan prakiraan. Data dari Open-Meteo."
+  ]
+ ],
+ "engage_slug": "undangan-lamaran-digital",
+ "engage_name": "Undangan lamaran digital",
+ "engage_title": "Undangan Lamaran Digital: Kata-kata & Tips | WeddingInvite",
+ "engage_desc": "Undangan lamaran digital: contoh kata-kata undangan, cara mengirim cepat, memperkenalkan keluarga, serta tanggal, lokasi, dan RSVP dalam satu link.",
+ "engage_h1": "Cara membuat undangan lamaran digital",
+ "engage_lead": "Acara lamaran atau tunangan sering direncanakan dalam waktu singkat. Undangan lamaran digital berupa satu link bisa dibagikan begitu detail acara sudah pasti dan memuat semua informasi yang dibutuhkan di satu tempat.",
+ "engage_card": "Kata-kata undangan lamaran, perkenalan keluarga, dan pengiriman cepat.",
+ "engage_body": [
+  [
+   "Mengapa undangan lamaran bisa digital?",
+   "Acara lamaran atau tunangan biasanya direncanakan jauh lebih cepat daripada pernikahan, kadang hanya dalam beberapa minggu. Mendesain, mencetak, dan membagikan undangan cetak tidak selalu terkejar dalam waktu sesingkat itu. Undangan lamaran digital bisa dikirim begitu detail acara sudah pasti. Tamu cukup menyentuh link, melihat tanggal dan lokasi, lalu bisa menyimpan tanggalnya ke kalender sendiri <b>dengan tombol “Simpan ke kalender”</b>. Bahkan untuk acara kecil yang kental nuansa keluarga, jauh lebih mudah bila semua orang menerima informasi yang sama dan tepat daripada menjelaskan detail satu per satu lewat telepon atau mengulanginya di puluhan pesan."
+  ],
+  [
+   "Contoh kata-kata undangan lamaran",
+   "Kata-kata undangan lamaran bisa sedikit lebih hangat dan singkat dibanding undangan pernikahan. Contohnya: “Dengan memohon rahmat Tuhan, kami mengundang Bapak/Ibu/Saudara/i untuk hadir di acara lamaran putra-putri kami, Rina dan Adit.” Contoh lain: “Kami bersiap mengikat janji terindah dalam hidup kami dan berharap Anda hadir di momen bahagia ini.” Sebutkan jenis acaranya dengan jelas: lamaran, tunangan, atau makan malam keluarga yang sederhana. <b>Siapa yang mengundang</b> juga penting; dalam acara adat, undangan sering atas nama keluarga, sementara sebagian pasangan mengundang atas nama sendiri. Batasi teks pada dua atau tiga kalimat."
+  ],
+  [
+   "Memperkenalkan kedua keluarga",
+   "Lamaran sering menjadi hari ketika dua keluarga besar bertemu untuk pertama kalinya di hadapan banyak orang. Mencantumkan nama kedua keluarga dalam undangan menunjukkan kepada tamu siapa tuan rumahnya dan menjadi jembatan alami bagi kerabat yang belum saling kenal. Dalam undangan WeddingInvite, kata-kata undangan dan <b>nama keluarga</b> ada di kartu yang sama. Periksa ejaan nama, gelar, dan urutannya bersama kedua keluarga; dalam undangan seperti ini, salah ketik kecil pun mudah terlihat dan bisa menyinggung perasaan. Sebelum dikirim, minta keluarga membaca teksnya sekali lagi."
+  ],
+  [
+   "Persiapan agar bisa dikirim cepat",
+   "Jika waktunya sempit, pastikan dulu hal-hal yang tidak akan berubah: tanggal, jam, dan lokasi. Setelah itu kumpulkan daftar tamu di satu tempat dan tentukan lewat jalur apa Anda akan menghubungi setiap orang. Saat mengirim link, tambahkan satu kalimat pribadi; khususnya untuk orang tua dan sesepuh, <b>mengabari lewat telepon lebih dulu</b> lalu mengirim link biasanya diterima dengan baik. Undangan yang dikirim dua sampai empat minggu sebelum lamaran sudah cukup bagi sebagian besar tamu. Pengingat singkat beberapa hari sebelum acara akan kembali menampilkan jam dan petunjuk arah kepada tamu."
+  ],
+  [
+   "Format yang sama juga cocok untuk lamaran",
+   "Undangan WeddingInvite tidak hanya untuk pernikahan, tetapi juga bisa dipakai untuk lamaran. Pembukaan pintu bersegel, musik, tombol “Simpan ke kalender” di kartu tanggal, “Petunjuk arah” di kartu lokasi, formulir RSVP, dan cuaca hari itu juga hadir dalam undangan lamaran. Di bagian bawah halaman ada <b>hitung mundur</b> menuju acara. Meski tamunya lebih sedikit, mengetahui berapa orang yang akan datang tetap penting untuk hidangan dan pengaturan tempat duduk; Anda bisa mencoba formulir RSVP di contoh langsung (jawaban contoh hanya tersimpan di browser Anda). Ketika hari pernikahan mendekat, gaya yang sama bisa dipakai untuk undangan pernikahan."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Pastikan detail acara",
+   "Tentukan jenis acara, tanggal, jam, lokasi, dan nama kedua keluarga; periksa ejaannya bersama keluarga."
+  ],
+  [
+   "Hubungi kami",
+   "Untuk undangan lamaran yang dibuat dengan data Anda sendiri, kirim email kepada kami ke alamat yang tertera di halaman ini."
+  ],
+  [
+   "Kirim link khusus untuk setiap tamu",
+   "Tambahkan ?k=Budi di akhir alamat dan kirim link dengan nama masing-masing tamu; kartu pertama akan menampilkan “Kepada Yth. Budi”."
+  ],
+  [
+   "Pantau kehadiran",
+   "Pantau berapa orang yang akan datang; kirim pengingat singkat beberapa hari sebelum acara kepada yang belum menjawab."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "Kapan undangan lamaran sebaiknya dikirim?",
+   "Tidak ada aturan baku. Karena lamaran biasanya direncanakan lebih singkat daripada pernikahan, mengirim undangan dua sampai empat minggu sebelumnya umumnya sudah cukup. Tamu dari jauh sebaiknya dikabari lebih awal."
+  ],
+  [
+   "Siapa yang mengirim undangan lamaran?",
+   "Tergantung adat dan keluarga. Undangan sering dibuat atas nama keluarga tuan rumah atau kedua keluarga bersama-sama, tetapi undangan atas nama pasangan sendiri juga lazim. Yang penting, dari teksnya jelas siapa yang mengundang."
+  ],
+  [
+   "Apakah undangan lamaran digital bisa seanggun undangan cetak?",
+   "Bisa, dengan kata-kata yang ditulis cermat dan desain yang baik. Undangan WeddingInvite terbuka dengan pintu marmer bersegel; tamu membuka pintunya sendiri dan musik mengalun di latar. Untuk orang tua dan sesepuh yang menghargai kartu, undangan cetak tetap bisa disiapkan."
+  ],
+  [
+   "Bisakah satu undangan dipakai untuk lamaran dan pernikahan sekaligus?",
+   "Lebih tepat menyiapkan undangan terpisah untuk setiap acara, karena tanggal, lokasi, dan kata-katanya berbeda. Memakai gaya yang sama di kedua acara memberi tamu pengalaman yang utuh dan membuat kedua undangan saling melengkapi."
+  ],
+  [
+   "Bagaimana tamu membuka undangan digital?",
+   "Tamu menyentuh link dari pesan dan undangan terbuka di browser ponsel; tidak perlu mengunduh aplikasi atau mendaftar. Tamu menyapu dedaunan dengan jari atau, setelah mengizinkan mikrofon, meniupnya, lalu menyentuh segel dan pintu pun terbuka."
+  ]
+ ],
+ "rsvp_slug": "konfirmasi-kehadiran-pernikahan",
+ "rsvp_name": "Konfirmasi kehadiran (RSVP)",
+ "rsvp_title": "Konfirmasi Kehadiran Pernikahan (RSVP) | WeddingInvite",
+ "rsvp_desc": "Apa arti RSVP dan apa yang perlu ditanyakan di formulir konfirmasi kehadiran pernikahan? Tips batas waktu, pengingat, dan menghitung jumlah tamu.",
+ "rsvp_h1": "Konfirmasi kehadiran pernikahan: panduan RSVP",
+ "rsvp_lead": "Konfirmasi kehadiran pernikahan adalah dasar perencanaan meja, hidangan, dan anggaran. Berikut cara menyusun formulir RSVP dan mengumpulkan jawaban tamu.",
+ "rsvp_card": "Arti RSVP, pertanyaan di formulir, batas waktu, dan cara mengingatkan.",
+ "rsvp_body": [
+  [
+   "Apa arti RSVP?",
+   "RSVP adalah singkatan dari ungkapan Prancis “répondez s'il vous plaît”, yang berarti “mohon dibalas”. Di undangan berbahasa Indonesia, maksud yang sama sering ditulis sebagai permintaan konfirmasi kehadiran. Keduanya membawa permohonan yang sama: tamu diminta memberi tahu apakah akan hadir atau tidak, sebelum tanggal yang ditentukan. Dulu jawaban ini disampaikan lewat telepon atau kartu balasan; kini <b>formulir RSVP digital</b> yang mengumpulkan jawaban dalam satu daftar bisa menyelesaikannya dalam hitungan detik. Tamu pun menjawab di tempat yang sama saat membuka undangan."
+  ],
+  [
+   "Mengapa konfirmasi kehadiran begitu penting?",
+   "Banyak bagian rencana pernikahan bergantung pada jumlah tamu: jumlah meja dan kursi, katering, pengaturan tempat duduk, bahkan transportasi. Gedung dan katering biasanya meminta jumlah pasti dalam jangka waktu tertentu sebelum hari pernikahan; periksa berapa lama tepatnya di kontrak Anda. <b>Jumlah yang hanya ditebak</b> bisa berujung pada meja kosong atau hidangan yang kurang. Jawaban yang terkumpul lebih awal mengurangi kesibukan di minggu-minggu terakhir dan memungkinkan Anda menyusun denah tempat duduk dengan tenang karena tahu siapa yang datang. Anggaran pun bisa dipastikan berdasarkan jumlah sebenarnya."
+  ],
+  [
+   "Apa saja yang perlu ditanyakan di formulir?",
+   "Formulir RSVP yang baik itu singkat; tamu seharusnya bisa mengisinya dalam waktu kurang dari satu menit. Pertanyaan dasarnya: <b>nama lengkap</b>, apakah akan hadir, dan berapa orang yang datang. Kolom catatan opsional memberi ruang bagi tamu untuk menyampaikan keperluan khusus atau menulis ucapan selamat. Formulir di undangan WeddingInvite menanyakan tepat hal-hal itu: nama lengkap, “Ya, saya akan hadir” atau “Tidak bisa hadir”, jumlah orang dari 1 sampai 10, dan catatan opsional. Terlalu banyak pertanyaan memperbesar kemungkinan formulir ditinggalkan di tengah jalan."
+  ],
+  [
+   "Bagaimana menentukan batas waktu konfirmasi?",
+   "Cara yang aman adalah menetapkan batas waktu satu atau dua minggu sebelum tanggal gedung atau katering meminta jumlah pasti; dengan begitu masih ada waktu untuk jawaban yang terlambat dan pengingat. Tulis tanggalnya dengan jelas di undangan, misalnya: “Mohon konfirmasi kehadiran paling lambat 15 Mei.” Menulis tanggal yang pasti, bukan <b>ungkapan yang samar</b>, memudahkan tamu. Jika undangan dikirim enam sampai delapan minggu sebelum hari pernikahan, batas waktu tiga atau empat minggu sebelum acara sudah cukup untuk sebagian besar rencana."
+  ],
+  [
+   "Mengingatkan tamu dan menghitung jumlah",
+   "Di setiap pernikahan selalu ada tamu yang belum menjawab; biasanya bukan karena tidak peduli, melainkan karena lupa. Mengirim ulang link undangan dengan pesan singkat yang sopan beberapa hari sebelum batas waktu umumnya sudah cukup. Saat menghitung, jumlahkan orang dari setiap tamu yang menyatakan hadir, dan catat <b>tamu yang tidak bisa hadir</b> di daftar terpisah. Menelepon tamu yang sampai batas waktu belum juga menjawab akan memperkecil angka yang masih belum pasti. Saat menyampaikan jumlah akhir, bicarakan dengan pihak gedung apakah perlu menyisakan sedikit cadangan."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Tentukan informasi dan batas waktu",
+   "Siapkan informasi undangan dan pilih batas waktu konfirmasi berdasarkan tanggal gedung meminta jumlah pasti."
+  ],
+  [
+   "Coba formulirnya",
+   "Anda bisa mencoba formulir RSVP di kartu kelima contoh langsung. Untuk undangan Anda sendiri, kirim email kepada kami ke alamat yang tertera di halaman ini."
+  ],
+  [
+   "Bagikan link khusus",
+   "Tambahkan ?k=Budi di akhir alamat; saat tamu membuka formulir, namanya sudah terisi dan ia tinggal memilih kehadiran serta jumlah orang."
+  ],
+  [
+   "Pantau jawaban dan ingatkan",
+   "Hitung jumlah tamu dari jawaban; sebelum batas waktu, kirim ulang link dengan catatan singkat kepada yang belum menjawab."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "Apa kepanjangan RSVP?",
+   "RSVP adalah “répondez s'il vous plaît”, bahasa Prancis untuk “mohon dibalas”. Jika undangan mencantumkan RSVP atau permintaan konfirmasi kehadiran, tuan rumah meminta Anda memberi tahu apakah akan hadir sebelum tanggal yang disebutkan."
+  ],
+  [
+   "Apakah saya tetap perlu menjawab jika tidak bisa hadir?",
+   "Ya. Memberi tahu bahwa Anda tidak bisa hadir sama pentingnya dengan menyatakan hadir; dengan begitu pasangan bisa memastikan jumlah tamu dan tidak menyediakan tempat yang akan kosong. Jawaban singkat dan sopan sudah cukup."
+  ],
+  [
+   "Bisakah tamu mengubah jawabannya nanti?",
+   "Di contoh langsung WeddingInvite, jawaban yang sudah disimpan diingat di browser itu dan muncul pilihan “Ubah jawaban”; tamu bisa memilih ulang status kehadiran atau jumlah orang. Jawaban di contoh tidak dikirim ke pasangan. Jika rencana berubah di saat terakhir, sebaiknya kabari juga pasangan secara langsung."
+  ],
+  [
+   "Bagaimana cara menanyakan jumlah orang di formulir?",
+   "Cara termudah adalah menjadikan jumlah orang sebagai kolom pilihan; di formulir WeddingInvite tamu memilih angka dari 1 sampai 10. Menyebutkan di pesan undangan siapa saja yang diundang (satu orang, pasangan, atau sekeluarga) mencegah kebingungan."
+  ],
+  [
+   "Berapa lama sebelum pernikahan batas waktu konfirmasi?",
+   "Tidak ada aturan baku; yang menentukan adalah tanggal gedung atau katering meminta jumlah pasti. Menetapkan batas waktu satu atau dua minggu sebelum tanggal itu memberi waktu untuk jawaban yang terlambat dan pengingat."
+  ]
+ ]
+}

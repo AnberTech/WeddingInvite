@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Passo a passo",
+ "g_faq_h2": "Perguntas frequentes",
+ "g_cta_h2": "Veja a demonstração ao vivo",
+ "g_cta_p": "Abra você mesmo a porta selada: experimente a abertura, os cartões, o formulário de confirmação e a contagem regressiva no convite de exemplo. O formulário da demonstração é só um teste e sua resposta não é enviada para lugar nenhum.",
+ "g_cta_btn": "Abrir a demonstração",
+ "g_contact": "Quer o seu convite? Escreva para nós:",
+ "g_other_h2": "Outros guias",
+ "g_lang": "Idioma",
+ "g_home": "Início",
+ "make_slug": "convite-de-casamento-digital",
+ "make_name": "Convite de casamento digital",
+ "make_title": "Convite de casamento digital: como fazer | WeddingInvite",
+ "make_desc": "O que colocar no convite de casamento digital, como escrever o texto e quando enviar o link. Dicas, exemplos e como combinar com o convite impresso.",
+ "make_h1": "Como fazer um convite de casamento digital",
+ "make_lead": "Um convite de casamento digital reúne em um só link a data, o local, como chegar e a confirmação de presença. Veja o que ele precisa ter e quando enviar aos convidados.",
+ "make_card": "O que incluir, exemplos de texto e quando enviar o link.",
+ "make_body": [
+  [
+   "O que não pode faltar no convite",
+   "Um bom convite responde às perguntas dos convidados antes mesmo que eles perguntem. A lista básica é curta: <b>os nomes dos noivos</b>, quem convida, a data e o horário, e o nome e o endereço do local. Depois, você pode incluir uma forma de confirmar presença com uma data limite e, se precisar, uma nota curta sobre traje ou crianças. Na tela do celular, parágrafos longos se perdem; quando cada informação tem o seu espaço, a leitura fica mais fácil. No convite WeddingInvite, essas informações ficam distribuídas em sete cartões: os nomes, o texto e as famílias, a data, o local, o formulário de confirmação, a previsão do tempo do dia e o encerramento."
+  ],
+  [
+   "Como escrever o texto: exemplos",
+   "O texto pode ser formal ou mais descontraído; o importante é que tenha a cara do casal e das famílias. Um exemplo clássico: “Com a bênção de Deus e de seus pais, Elif e Ege convidam para a cerimônia do seu casamento.” Um mais leve: “Vamos nos casar! E queremos muito dividir esse dia com quem a gente ama.” Mantenha o texto em duas ou três frases e mostre data, horário e endereço em um espaço próprio, em vez de escondê-los no meio do texto. Colocar os nomes dos pais acima do texto é um toque tradicional. Depois de escrever, leia em voz alta: <b>se soar natural</b>, você está no caminho certo."
+  ],
+  [
+   "Pense na experiência do convidado",
+   "Os primeiros segundos fazem diferença. Uma página pensada para o celular e fácil de ler funciona para convidados de qualquer idade. O convite WeddingInvite abre com <b>uma porta de mármore selada</b>: o convidado afasta as folhas com o dedo, ou sopra depois de permitir o microfone, toca no selo e a porta se abre. Ao fundo toca uma música, que pode ser desligada com um botão. Na parte de baixo, uma contagem regressiva mostra os dias, horas, minutos e segundos que faltam para o casamento. Com os botões “Adicionar à agenda” no cartão da data e “Como chegar” no cartão do local, ninguém precisa procurar informações no grande dia."
+  ],
+  [
+   "Quando e como enviar o link",
+   "O costume é enviar o convite de seis a oito semanas antes do casamento; para quem vem de outra cidade ou de outro país, vale avisar antes, por exemplo com um save the date. Mandar o link <b>em uma mensagem pessoal</b>, em vez de num grupo grande, é mais atencioso e aumenta a chance de resposta. Escreva uma frase curta com suas próprias palavras e coloque o link logo abaixo. Uma semana antes do casamento, você pode compartilhar o mesmo link de novo como lembrete; assim o horário, o endereço e o caminho ficam a um toque para todo mundo."
+  ],
+  [
+   "Combinando com o convite impresso",
+   "O convite digital não precisa substituir o de papel. Muitos casais imprimem convites para os avós e a família mais próxima e mandam o link para o restante dos convidados. Colocar no convite impresso um <b>QR code</b> que leva ao convite online une os dois caminhos: quem está com o cartão na mão escaneia o código e chega a como chegar, à agenda e ao formulário de confirmação. Assim, dá para tirar detalhes do impresso e deixar o design mais limpo. Seja qual for a sua escolha, confira se a data, o horário e o endereço estão exatamente iguais nos dois convites."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Reúna as informações",
+   "Junte em uma nota os nomes, o texto, os nomes das famílias, data e horário, e o nome e o endereço do local; peça para a família conferir a grafia."
+  ],
+  [
+   "Fale com a gente",
+   "Para ter um convite feito com as suas próprias informações, escreva para nós no e-mail desta página."
+  ],
+  [
+   "Compartilhe o link",
+   "Envie o link aos convidados por mensagem. Se você adicionar ?k=Ana ao final do endereço, o primeiro cartão mostra “Para Ana” e o nome já vem preenchido no formulário."
+  ],
+  [
+   "Acompanhe as confirmações",
+   "Acompanhe as respostas e o número de pessoas, e mande um lembrete curto para quem ainda não respondeu antes da data limite."
+  ]
+ ],
+ "make_faq": [
+  [
+   "Precisa baixar um app para abrir o convite de casamento digital?",
+   "Não. O convite WeddingInvite é um único link que abre no navegador; o convidado não precisa baixar aplicativo nem criar conta. Ele foi pensado para o celular na vertical; em uma tela de computador larga, abre dentro de uma moldura no formato de celular."
+  ],
+  [
+   "É falta de educação mandar o convite de casamento pelo WhatsApp?",
+   "Para a maioria dos convidados, um link bem-feito e enviado com uma mensagem pessoal é um convite educado e prático. Para os mais velhos que dão valor ao papel, um bom meio-termo é entregar também um convite impresso e mandar o link para todos."
+  ],
+  [
+   "Com quanto tempo de antecedência enviar o convite de casamento?",
+   "O costume é de seis a oito semanas antes do casamento. Avisar mais cedo quem vem de longe e mandar um lembrete curto uma semana antes ajuda os convidados a se programarem."
+  ],
+  [
+   "Posso chamar cada convidado pelo nome?",
+   "Sim. Se você adicionar ?k=Ana ao final do link, o primeiro cartão do convite mostra “Para Ana” e o campo do nome já aparece preenchido no formulário de confirmação. Assim, você manda para cada convidado o link que termina com o nome dele."
+  ],
+  [
+   "Como funciona a previsão do tempo no convite?",
+   "O cartão do tempo mostra o dia do casamento. Quando faltam 14 dias ou menos, ele tenta carregar a previsão para aquele dia; antes disso, mostra o tempo registrado na mesma data em um ano anterior. Se os dados não carregarem, o cartão mantém valores típicos da estação e avisa que não é uma previsão. Os dados vêm do Open-Meteo."
+  ]
+ ],
+ "engage_slug": "convite-de-noivado-digital",
+ "engage_name": "Convite de noivado digital",
+ "engage_title": "Convite de noivado digital: textos e dicas | WeddingInvite",
+ "engage_desc": "Convite de noivado digital: exemplos de texto, envio em pouco tempo, como apresentar as famílias e data, local e confirmação de presença em um só link.",
+ "engage_h1": "Como fazer um convite de noivado digital",
+ "engage_lead": "A festa ou o jantar de noivado costuma ser organizado em pouco tempo. Um convite digital de um só link pode ser enviado assim que os detalhes estiverem definidos e reúne tudo.",
+ "engage_card": "Textos para o noivado, apresentação das famílias e envio rápido.",
+ "engage_body": [
+  [
+   "Por que fazer o convite de noivado digital?",
+   "O noivado costuma ser organizado em poucas semanas, não em meses. Criar, imprimir e entregar convites de papel nem sempre cabe nesse prazo. Já um convite de noivado digital pode ser enviado assim que os detalhes estiverem definidos. O convidado toca no link, vê a data e o local e pode salvar a data <b>com o botão “Adicionar à agenda”</b>. Mesmo em uma reunião pequena e familiar, todo mundo ver as mesmas informações corretas cansa muito menos do que explicar os detalhes por telefone, um por um, ou repeti-los em dezenas de mensagens."
+  ],
+  [
+   "Exemplos de texto para o convite de noivado",
+   "O texto do noivado pode ser um pouco mais caloroso e curto que o do casamento. Um exemplo: “Com muita alegria, convidamos você para o noivado dos nossos filhos Elif e Ege.” Outro: “Ficamos noivos! Venha comemorar com a gente.” Deixe claro que tipo de evento é: uma festa, um jantar ou um almoço em família. Também importa <b>quem está convidando</b>: em celebrações mais tradicionais, muitas vezes são as famílias; muitos casais preferem convidar em nome próprio. Limite o texto a duas ou três frases e deixe data, horário e local nos cartões próprios."
+  ],
+  [
+   "Apresentando as famílias",
+   "O noivado costuma ser o dia em que as duas famílias se reúnem pela primeira vez diante de um grupo maior. Colocar juntos os nomes das duas famílias no convite mostra aos convidados quem está recebendo e cria uma ponte natural entre parentes que ainda não se conhecem. No convite WeddingInvite, o texto e os <b>nomes das famílias</b> ficam no mesmo cartão. Confira com as duas famílias a grafia, os títulos e a ordem dos nomes; nesse tipo de convite, até um pequeno erro de digitação chama atenção e pode magoar alguém. Antes de enviar, peça para alguém de cada família ler o texto."
+  ],
+  [
+   "Como se preparar quando o prazo é curto",
+   "Se o tempo estiver apertado, defina primeiro o que não vai mudar: data, horário e local. Depois, reúna a lista de convidados em um só lugar e decida como vai falar com cada pessoa. Ao enviar o link, inclua uma frase pessoal; com os avós e os parentes mais velhos, <b>avisar antes com uma ligação</b> e só depois mandar o link costuma ser muito bem recebido. Um convite enviado de duas a quatro semanas antes do noivado é suficiente para a maioria dos convidados. Um lembrete curto alguns dias antes da festa traz de volta o horário e o caminho."
+  ],
+  [
+   "O mesmo formato funciona no noivado",
+   "O convite WeddingInvite não serve só para casamento; ele funciona muito bem para o noivado também. A abertura da porta selada, a música, “Adicionar à agenda” no cartão da data, “Como chegar” no cartão do local, o formulário de confirmação e a previsão do tempo do dia estão todos lá. Na parte de baixo, uma <b>contagem regressiva</b> mostra quanto falta para a festa. Mesmo com menos convidados, saber quantas pessoas vão é importante para a comida e a organização das mesas; você pode experimentar o formulário de confirmação na demonstração ao vivo (as respostas de exemplo ficam só no seu navegador). Quando o casamento estiver perto, dá para usar o mesmo estilo de novo."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Defina os detalhes",
+   "Decida o tipo de festa, a data, o horário, o local e os nomes das duas famílias; confira a grafia com elas."
+  ],
+  [
+   "Fale com a gente",
+   "Para ter um convite de noivado feito com as suas próprias informações, escreva para nós no e-mail desta página."
+  ],
+  [
+   "Envie links personalizados",
+   "Adicione ?k=Ana ao final do endereço para que cada convidado receba o próprio link; o primeiro cartão vai mostrar “Para Ana”."
+  ],
+  [
+   "Acompanhe quem vai",
+   "Acompanhe quantas pessoas vão e mande um lembrete curto alguns dias antes da festa para quem ainda não respondeu."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "Com quanto tempo de antecedência enviar o convite de noivado?",
+   "Não existe regra fixa. Como o noivado costuma ser planejado em menos tempo que o casamento, enviar o convite de duas a quatro semanas antes dá tempo suficiente para a maioria dos convidados. Para quem vem de longe, vale avisar antes."
+  ],
+  [
+   "Quem convida para o noivado?",
+   "Depende da tradição e de cada família. Muitas vezes quem convida é a família anfitriã ou as duas famílias juntas; também é comum o próprio casal convidar em nome próprio. O importante é que o texto deixe claro quem está convidando."
+  ],
+  [
+   "Um convite de noivado digital fica tão elegante quanto um impresso?",
+   "Com um texto caprichado e um bom design, sim. O convite WeddingInvite abre com uma porta de mármore selada que o próprio convidado abre, com música ao fundo. Para os mais velhos que preferem papel, você também pode preparar um convite impresso."
+  ],
+  [
+   "Posso usar o mesmo convite para o noivado e o casamento?",
+   "O melhor é ter um convite para cada celebração, porque a data, o local e o texto mudam. Usar o mesmo estilo nas duas, por outro lado, dá aos convidados uma experiência coerente e faz um convite complementar o outro."
+  ],
+  [
+   "Como os convidados abrem o convite digital?",
+   "O convidado toca no link que recebeu por mensagem e o convite abre no navegador do celular, sem aplicativo nem cadastro. Ele afasta as folhas com o dedo ou sopra depois de permitir o microfone, toca no selo e a porta se abre."
+  ]
+ ],
+ "rsvp_slug": "confirmacao-de-presenca-casamento",
+ "rsvp_name": "Confirmação de presença",
+ "rsvp_title": "Confirmação de presença no casamento: guia | WeddingInvite",
+ "rsvp_desc": "O que é RSVP e o que perguntar na confirmação de presença do casamento? Data limite, lembretes e como planejar o número de convidados.",
+ "rsvp_h1": "Confirmação de presença no casamento: guia de RSVP",
+ "rsvp_lead": "Saber quantas pessoas vão é a base para mesas, buffet e orçamento. Veja como montar a confirmação de presença do seu casamento e reunir todas as respostas.",
+ "rsvp_card": "O que é RSVP, o que perguntar, data limite e lembretes.",
+ "rsvp_body": [
+  [
+   "O que significa RSVP?",
+   "RSVP é a sigla da expressão francesa “répondez s'il vous plaît”, que quer dizer “responda, por favor”. No Brasil, ela aparece em muitos convites ao lado de frases como “Confirme sua presença até…”. O pedido é sempre o mesmo: o convidado deve avisar se vai ou não. Se o convite traz uma data, a resposta deve chegar aos noivos até esse dia. Antigamente, isso era feito por telefone ou com um cartão de resposta; hoje, <b>um formulário de confirmação digital</b> que reúne as respostas em uma lista pode resolver em segundos, em vez de anotações soltas. E o convidado responde no mesmo lugar onde abriu o convite."
+  ],
+  [
+   "Por que a confirmação de presença é tão importante",
+   "Muitos itens do casamento dependem do número de convidados: mesas e cadeiras, buffet, a distribuição das mesas e até o transporte. Espaços de festa e bufês costumam pedir o número final algum tempo antes do casamento; confira no seu próprio contrato qual é o prazo. <b>Um número no chute</b> leva a mesas vazias ou a comida faltando. Reunir as respostas cedo tira a pressão das últimas semanas e permite montar o mapa de mesas com calma, sabendo quem vai. O orçamento também passa a ser fechado com o número real."
+  ],
+  [
+   "O que perguntar no formulário",
+   "Um bom formulário de confirmação é curto: o convidado deve conseguir preencher em menos de um minuto. As perguntas básicas são: <b>nome completo</b>, se vai comparecer e quantas pessoas vão. Um campo opcional para mensagem permite avisar sobre algo especial ou deixar um recado de parabéns. O formulário do convite WeddingInvite pergunta exatamente isso: nome completo, “Estarei presente” ou “Não poderei ir”, um número de pessoas de 1 a 10 e uma mensagem opcional. Cada pergunta a mais aumenta a chance de alguém desistir no meio do caminho."
+  ],
+  [
+   "Como definir a data limite de resposta",
+   "Uma forma segura é marcar a data limite uma ou duas semanas antes do dia em que o espaço ou o bufê precisa do número final; assim sobra tempo para respostas atrasadas e lembretes. Escreva a data com clareza no convite, por exemplo: “Confirme sua presença até 15 de maio.” Um dia concreto, em vez de <b>expressões vagas</b> como “o quanto antes”, facilita a vida dos convidados. Se você enviou o convite de seis a oito semanas antes, uma data limite de três a quatro semanas antes do casamento funciona para a maioria dos planejamentos."
+  ],
+  [
+   "Lembretes e número de convidados",
+   "Em todo casamento há convidados que não respondem, e quase sempre é esquecimento, não falta de interesse. Uma mensagem curta e gentil com o link do convite, alguns dias antes da data limite, costuma bastar. Para chegar ao número de convidados, some as pessoas de cada confirmação e mantenha <b>quem não poderá ir</b> em uma lista separada. Ligar para quem ainda não respondeu depois da data limite reduz ao mínimo as dúvidas. Na hora de passar o número final, converse com o espaço sobre deixar ou não uma pequena margem."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Defina as informações e o prazo",
+   "Prepare as informações do convite e escolha uma data limite de acordo com o dia em que o espaço precisa do número final."
+  ],
+  [
+   "Experimente o formulário",
+   "Você pode experimentar o formulário de confirmação no quinto cartão da demonstração ao vivo. Para o seu próprio convite, escreva para nós no e-mail desta página."
+  ],
+  [
+   "Compartilhe links personalizados",
+   "Adicione ?k=Ana ao final do endereço; quando o convidado abre o formulário, o nome já vem preenchido e ele só escolhe presença e número de pessoas."
+  ],
+  [
+   "Acompanhe e lembre",
+   "Some as pessoas conforme as respostas chegam e reenvie o link com um recado curto para quem não respondeu antes da data limite."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "O que significa RSVP no convite de casamento?",
+   "RSVP quer dizer “répondez s'il vous plaît”, em francês “responda, por favor”. Quando aparece no convite, os anfitriões pedem que você avise até a data indicada se vai comparecer. Muitos convites trazem, com o mesmo sentido, “Confirme sua presença”."
+  ],
+  [
+   "Preciso responder mesmo se não for ao casamento?",
+   "Sim. Avisar que não vai é tão importante quanto confirmar presença: assim o casal fecha o número de convidados e não reserva para você um lugar que ficaria vazio. Uma resposta curta e gentil já basta."
+  ],
+  [
+   "O convidado pode mudar a resposta depois?",
+   "Na demonstração ao vivo do WeddingInvite, depois de salva, a resposta fica guardada naquele navegador e aparece a opção “Alterar resposta”; o convidado pode escolher de novo a presença ou o número de pessoas. As respostas de exemplo não são enviadas ao casal. Se os planos mudarem em cima da hora, também é gentil avisar o casal diretamente."
+  ],
+  [
+   "Como perguntar o número de pessoas no formulário?",
+   "O jeito mais simples é perguntar com um campo de escolha no formulário; no WeddingInvite, o convidado escolhe um número de 1 a 10. Deixar claro na mensagem quem está incluído no convite (uma pessoa, um casal ou a família) evita confusão."
+  ],
+  [
+   "Com quanto tempo de antecedência deve ser a data limite de confirmação?",
+   "Não há regra fixa: o que define é o dia em que o espaço ou o bufê precisa do número final. Marcar a data limite uma ou duas semanas antes desse dia deixa margem para respostas atrasadas e lembretes."
+  ]
+ ]
+}

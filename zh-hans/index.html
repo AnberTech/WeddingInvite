@@ -1638,7 +1638,8 @@
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!sh.hidden) kapa(); });
     $('#rDeg').addEventListener('click',function(){ tes.hidden=true; kart.hidden=false; ac(null); });
     [ad,nt].forEach(function(i){ i.addEventListener('keydown',function(e){ if(e.key==='Enter'){ e.preventDefault(); i.blur(); } }); });
-    var eski=oku(); if(eski){ ad.value=eski.ad; nt.value=eski.not||''; sec(eski.gel); sayi(eski.kisi||1); goster(eski); }
+    var eski=oku(); if(eski && guest && eski.ad!==guest) eski=null;   // kişiye özel link başka bir misafirinse eski cevabı gösterme
+    if(eski){ ad.value=eski.ad; nt.value=eski.not||''; sec(eski.gel); sayi(eski.kisi||1); goster(eski); }
     f.addEventListener('submit',function(e){
       e.preventDefault(); if(gon.disabled) return;
       var v={ad:ad.value.trim().replace(/\s+/g,' '), gel:gel, kisi:gel?kisi:0, not:nt.value.trim()};

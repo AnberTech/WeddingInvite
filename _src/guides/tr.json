@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Adım adım",
+ "g_faq_h2": "Sık sorulan sorular",
+ "g_cta_h2": "Canlı örneği görün",
+ "g_cta_p": "Mühürlü kapıyı kendiniz açın: canlı örnek davetiyede açılışı, kartları, katılım formunu ve geri sayımı deneyin. Örnekteki form yalnız denemedir, cevabınız hiçbir yere gönderilmez.",
+ "g_cta_btn": "Canlı örneği aç",
+ "g_contact": "Kendi davetiyeniz için yazın:",
+ "g_other_h2": "Diğer rehberler",
+ "g_lang": "Dil",
+ "g_home": "Ana sayfa",
+ "make_slug": "online-dugun-davetiyesi",
+ "make_name": "Online düğün davetiyesi",
+ "make_title": "Online Düğün Davetiyesi Hazırlama Rehberi | WeddingInvite",
+ "make_desc": "Online düğün davetiyesinde neler olmalı, davet metni nasıl yazılır, link ne zaman gönderilir? Basılı davetiyeyle birlikte kullanma ipuçları ve örnekler.",
+ "make_h1": "Online düğün davetiyesi nasıl hazırlanır?",
+ "make_lead": "Tek bir linkle açılan dijital davetiye; tarihi, mekânı, yol tarifini ve katılım cevabını misafirinize aynı yerde sunar. Neleri içermesi ve ne zaman gönderilmesi gerektiğini anlatıyoruz.",
+ "make_card": "Davetiyede olması gerekenler, metin örnekleri ve linki gönderme zamanı.",
+ "make_body": [
+  [
+   "Davetiyede mutlaka olması gerekenler",
+   "İyi bir davetiye, misafirin aklına gelecek soruları önceden cevaplar. Temel liste kısadır: <b>çiftin isimleri</b>, davet eden aileler, tarih ve saat, mekânın adı ve açık adresi. Bunlara katılım cevabı için bir yol ve son cevap tarihi, gerekiyorsa kıyafet ya da çocuklarla ilgili kısa bir not eklenebilir. Telefon ekranında uzun paragraflar kaybolur; her bilginin kendi bölümünde durması okumayı kolaylaştırır. WeddingInvite davetiyesinde bu bilgiler yedi kartta yer alır: isimler, davet metni ve aileler, tarih, mekân, katılım formu, o günün hava durumu ve kapanış."
+  ],
+  [
+   "Davet metni nasıl yazılır? Örnekler",
+   "Davet metni resmî ya da samimi olabilir; önemli olan çiftin ve ailelerin sesini taşımasıdır. Klasik bir örnek: “Hayatımızı birleştirdiğimiz bu mutlu günde sizleri de aramızda görmekten onur duyarız.” Daha sıcak bir örnek: “Birlikte yeni bir yola çıkıyoruz ve bu günü sevdiklerimizle paylaşmak istiyoruz.” Metni iki üç cümlede tutun; tarih, saat ve adresi metnin içine gömmek yerine ayrı yerlerde gösterin. Ailelerin isimlerini metnin altında vermek geleneksel bir dokunuştur. Yazdıktan sonra metni yüksek sesle okuyun: <b>kulağa doğal geliyorsa</b> doğru yoldasınız."
+  ],
+  [
+   "Misafir deneyimini düşünün",
+   "Davetiyeyi açan kişinin ilk birkaç saniyesi önemlidir. Telefona göre tasarlanmış, kolay okunan bir sayfa her yaştan misafiri yormaz. WeddingInvite davetiyesi <b>mühürlü bir mermer kapıyla</b> açılır: misafir yaprakları parmağıyla süpürür ya da mikrofon izni verip üfler, mühre dokunur ve kapı açılır. Arka planda müzik çalar; bir düğmeyle kapatılabilir. Sayfanın altında düğüne kalan gün, saat, dakika ve saniye görünür. Tarih kartındaki “Takvime ekle” ve mekân kartındaki “Yol tarifi” düğmeleri sayesinde misafir, düğün günü bilgileri aramak zorunda kalmaz."
+  ],
+  [
+   "Linki ne zaman ve nasıl göndermeli?",
+   "Yaygın alışkanlık, davetiyeyi düğünden altı ila sekiz hafta önce göndermektir; başka şehirden ya da ülkeden gelecek misafirlere daha erken bir ön haber vermek iyi olur. Linki kalabalık bir grup mesajı yerine <b>kişiye özel bir mesajla</b> göndermek daha incelikli durur ve cevap alma ihtimalini artırır. Mesaja kısa, kendi cümlenizle bir giriş yazın ve linki altına koyun. Düğüne bir hafta kala aynı linki küçük bir hatırlatmayla yeniden paylaşabilirsiniz; misafir saati, adresi ve yol tarifini tek dokunuşla yeniden bulur."
+  ],
+  [
+   "Basılı davetiyeyle birlikte kullanmak",
+   "Dijital davetiye, basılı kartın yerini almak zorunda değildir. Pek çok çift büyükler ve yakın aile için basılı davetiye hazırlar, geniş misafir listesine ise linki gönderir. Basılı kartın üzerine davetiye linkine giden bir <b>QR kod</b> eklemek iki yolu birleştirir: kartı elinde tutan misafir kodu okutarak yol tarifine, takvime ve katılım formuna ulaşır. Böylece basılı kartta yer kaplayan ayrıntıları azaltabilir, tasarımı sade tutabilirsiniz. Hangi yolu seçerseniz seçin, iki davetiyedeki tarih, saat ve adresin birebir aynı olduğunu mutlaka kontrol edin."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Bilgilerinizi hazırlayın",
+   "İsimleri, davet metnini, aile isimlerini, tarih ve saati, mekânın adını ve adresini tek bir notta toplayın; yazımları ailenizle kontrol edin."
+  ],
+  [
+   "Bize yazın",
+   "Kendi bilgilerinizle hazırlanacak bir davetiye için bu sayfadaki e-posta adresinden bize yazın."
+  ],
+  [
+   "Linki paylaşın",
+   "Linki misafirlerinize mesajla gönderin. Adresin sonuna ?k=Ad eklerseniz ilk kartta “Sevgili Ad” yazar ve formda ad hazır gelir."
+  ],
+  [
+   "Katılım cevaplarını takip edin",
+   "Misafirlerin cevaplarına göre kişi sayısını izleyin; cevap vermeyenlere son tarihten önce kısa bir hatırlatma gönderin."
+  ]
+ ],
+ "make_faq": [
+  [
+   "Online düğün davetiyesi için uygulama indirmek gerekir mi?",
+   "Hayır. WeddingInvite davetiyesi tarayıcıda açılan tek bir linktir; misafirin uygulama indirmesine ya da üye olmasına gerek yoktur. Telefonda dik ekrana göre tasarlanmıştır; geniş bilgisayar ekranlarında ise telefon oranlı bir çerçevede açılır."
+  ],
+  [
+   "Düğün davetiyesini mesajla göndermek kabalık mı?",
+   "Özenle hazırlanmış ve kişiye özel bir mesajla gönderilmiş bir link, misafirlerin çoğu için hem kibar hem pratik bir davettir. Basılı kartı önemseyen büyükler için ayrıca basılı davetiye hazırlayıp herkese linki de göndermek iyi bir orta yoldur."
+  ],
+  [
+   "Davetiye linki düğünden ne kadar önce gönderilmeli?",
+   "Yaygın alışkanlık düğünden altı ila sekiz hafta öncedir. Uzaktan gelecek misafirlere daha erken bir ön haber vermek, düğüne bir hafta kala da kısa bir hatırlatma göndermek misafirlerin plan yapmasını kolaylaştırır."
+  ],
+  [
+   "Her misafire ismiyle hitap edebilir miyim?",
+   "Evet. Link adresinin sonuna ?k=Ad eklerseniz davetiyenin ilk kartında “Sevgili Ad” yazar ve katılım formunda ad alanı hazır gelir. Böylece her misafire kendi adıyla biten linki gönderebilirsiniz."
+  ],
+  [
+   "Davetiyede hava durumu nasıl gösteriliyor?",
+   "Hava durumu kartı düğün gününü gösterir. Düğüne 14 gün ya da daha az kaldığında o gün için tahmin alınmaya çalışılır; daha önce, aynı ay ve güne ait geçmiş bir yılın ölçümü gösterilir. Veri alınamazsa kartta mevsim normalleri kalır ve tahmin olmadığı belirtilir. Veriler Open-Meteo'dan alınır."
+  ]
+ ],
+ "engage_slug": "dijital-nisan-davetiyesi",
+ "engage_name": "Dijital nişan davetiyesi",
+ "engage_title": "Dijital Nişan Davetiyesi: Metin ve İpuçları | WeddingInvite",
+ "engage_desc": "Nişan ve söz için dijital davetiye: davet metni örnekleri, kısa sürede gönderme, ailelerin tanıtımı ve tek linkte tarih, mekân, katılım cevabı.",
+ "engage_h1": "Dijital nişan davetiyesi hazırlama",
+ "engage_lead": "Nişan ya da söz çoğu zaman kısa sürede planlanır. Tek linklik bir dijital davetiye, bilgiler netleştiği anda paylaşılabilir ve gereken her bilgiyi bir arada sunar.",
+ "engage_card": "Nişan ve söz için davet metni, aile tanıtımı ve hızlı gönderim.",
+ "engage_body": [
+  [
+   "Nişan davetiyesi neden dijital olabilir?",
+   "Nişan ve söz törenleri çoğu zaman düğünden çok daha kısa bir sürede, birkaç hafta içinde planlanır. Basılı davetiyeyi tasarlatmak, bastırmak ve dağıtmak bu takvime her zaman sığmaz. Dijital bir davetiye ise bilgiler netleştiği anda gönderilebilir. Misafir linke dokunur, tarihi ve mekânı görür, <b>“Takvime ekle” düğmesiyle</b> tarihi kendi takvimine ekleyebilir. Küçük ve aile ağırlıklı bir davette bile herkesin aynı ve doğru bilgiye ulaşması, ayrıntıları telefonla tek tek anlatmaktan ya da onlarca mesajda tekrarlamaktan çok daha az yorucudur."
+  ],
+  [
+   "Nişan davet metni örnekleri",
+   "Nişan metni, düğün davetiyesinden biraz daha sıcak ve kısa olabilir. Bir örnek: “Kızımız Elif ile oğlumuz Ege'nin nişan törenine sizleri de bekleriz.” Bir başkası: “Hayatımızın en güzel sözünü vermeye hazırlanıyoruz; bu mutlu anda yanımızda olmanızı isteriz.” Metinde törenin türünü açıkça belirtin: nişan mı, söz mü, yoksa küçük bir aile yemeği mi? <b>Davet edenin kim olduğu</b> da önemlidir; geleneksel törenlerde davet çoğu zaman aileler adına yapılır, bazı çiftler ise kendi adlarıyla davet eder. Metni iki üç cümleyle sınırlayın."
+  ],
+  [
+   "Aileleri tanıtmak",
+   "Nişan, çoğu zaman iki ailenin geniş bir topluluk önünde ilk kez bir araya geldiği gündür. Davetiyede iki ailenin isimlerini birlikte vermek, misafirlere kimin ev sahibi olduğunu gösterir ve birbirini tanımayan akrabalar arasında doğal bir köprü kurar. WeddingInvite davetiyesinde davet metni ve <b>aile isimleri</b> aynı kartta yer alır. İsimlerin yazımını, unvanları ve sıralamayı iki aileyle birlikte kontrol edin; bu tür davetlerde küçük bir yazım hatası bile fark edilir ve gönül kırabilir. Göndermeden önce metni bir kez de ailelere okutun."
+  ],
+  [
+   "Kısa sürede göndermek için hazırlık",
+   "Zaman darsa önce değişmeyecek bilgileri netleştirin: tarih, saat ve mekân. Ardından davetli listesini tek bir yerde toplayın ve herkese hangi yoldan ulaşacağınızı belirleyin. Linki gönderirken kısa bir kişisel cümle ekleyin; özellikle büyükler için <b>önce bir telefonla haber vermek</b>, ardından linki göndermek iyi karşılanır. Nişana iki ila dört hafta kala gönderilen bir davetiye çoğu misafir için yeterlidir. Törene birkaç gün kala gönderilen kısa bir hatırlatma, saati ve yol tarifini yeniden misafirin önüne getirir."
+  ],
+  [
+   "Aynı format nişanda da işler",
+   "WeddingInvite davetiyesi yalnız düğün için değil, nişan için de kullanılabilir. Mühürlü kapı açılışı, müzik, tarih kartındaki “Takvime ekle”, mekân kartındaki “Yol tarifi”, katılım formu ve o günün hava durumu nişan davetinde de yer alır. Sayfanın altında törene kalan süreyi gösteren bir <b>geri sayım</b> bulunur. Nişanda daha az misafir olsa bile kaç kişinin geleceğini bilmek ikram ve oturma düzeni için önemlidir; katılım formunu canlı örnekte deneyebilirsiniz (örnek cevaplar yalnız kullandığınız tarayıcıda kalır). Düğün yaklaştığında aynı tarzı düğün davetiyesi için de kullanabilirsiniz."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Tören bilgilerini netleştirin",
+   "Törenin türünü, tarihi, saati, mekânı ve iki ailenin isimlerini belirleyin; yazımları ailelerle kontrol edin."
+  ],
+  [
+   "Bize yazın",
+   "Kendi bilgilerinizle hazırlanacak bir nişan davetiyesi için bu sayfadaki e-posta adresinden bize yazın."
+  ],
+  [
+   "Linki kişiye özel gönderin",
+   "Adresin sonuna ?k=Ad ekleyerek her misafire kendi adıyla açılan linki gönderin; ilk kartta “Sevgili Ad” yazar."
+  ],
+  [
+   "Katılımı takip edin",
+   "Kaç kişinin geleceğini izleyin; cevap vermeyenlere törenden birkaç gün önce kısa bir hatırlatma gönderin."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "Nişan davetiyesi ne kadar önce gönderilir?",
+   "Kesin bir kural yoktur. Nişan genellikle düğünden daha kısa sürede planlandığı için iki ila dört hafta önce göndermek çoğu misafire yeterli zaman tanır. Uzaktan gelecek misafirlere daha erken haber vermek iyi olur."
+  ],
+  [
+   "Nişan davetiyesini kim gönderir?",
+   "Geleneğe ve ailelere göre değişir. Davet çoğu zaman ev sahibi aile ya da iki aile birlikte adına yapılır; çiftin kendi adıyla davet ettiği metinler de yaygındır. Önemli olan, metinde davet edenin açıkça anlaşılmasıdır."
+  ],
+  [
+   "Dijital nişan davetiyesi basılı davetiye kadar şık olur mu?",
+   "Özenle yazılmış bir metin ve iyi bir tasarımla evet. WeddingInvite davetiyesi mühürlü bir mermer kapıyla açılır; kapıyı misafir kendisi açar ve arka planda müzik çalar. Basılı kartı önemseyen büyükler için ayrıca basılı davetiye de hazırlanabilir."
+  ],
+  [
+   "Aynı davetiyeyi hem nişan hem düğün için kullanabilir miyim?",
+   "Her tören için ayrı bir davetiye hazırlamak daha doğrudur, çünkü tarih, mekân ve davet metni farklıdır. Aynı tarzı iki törende de kullanmak ise misafirlere bütünlüklü bir deneyim sunar ve davetiyelerin birbirini tamamlamasını sağlar."
+  ],
+  [
+   "Misafirler dijital davetiyeyi nasıl açar?",
+   "Misafir mesajla gelen linke dokunur ve davetiye telefonun tarayıcısında açılır; uygulama indirmek ya da üye olmak gerekmez. Yaprakları parmağıyla süpürür ya da mikrofon izni verip üfler, mühre dokunur ve kapı açılır."
+  ]
+ ],
+ "rsvp_slug": "dugun-katilim-formu",
+ "rsvp_name": "Düğün katılım formu (LCV)",
+ "rsvp_title": "Düğün Katılım Formu (LCV / RSVP) Rehberi | WeddingInvite",
+ "rsvp_desc": "LCV ve RSVP ne demek, düğün katılım formunda hangi bilgiler sorulmalı? Son cevap tarihi, hatırlatma ve kişi sayısı planlaması için pratik ipuçları.",
+ "rsvp_h1": "Düğün katılım formu: LCV ve RSVP rehberi",
+ "rsvp_lead": "Kaç kişinin geleceğini bilmek; masa, ikram ve bütçe planının temelidir. Katılım formunu nasıl kuracağınızı ve cevapları nasıl toplayacağınızı anlatıyoruz.",
+ "rsvp_card": "LCV ne demek, formda neler sorulur, son tarih ve hatırlatma.",
+ "rsvp_body": [
+  [
+   "LCV ve RSVP ne demek?",
+   "LCV, “Lütfen Cevap Veriniz” ifadesinin kısaltmasıdır; uluslararası karşılığı Fransızca “répondez s'il vous plaît” sözünden gelen RSVP'dir. İkisi de aynı ricayı taşır: davetliden katılıp katılmayacağını bildirmesi istenir. Davetiyede LCV yazıyorsa misafir, belirtilen tarihe kadar ev sahibine cevap vermelidir. Eskiden bu cevap telefonla ya da kartla verilirdi; bugün cevapları bir listede toplayan <b>dijital bir katılım formu</b> aynı işi birkaç saniyede görebilir. Misafir de cevabını davetiyeyi açtığı yerde verir."
+  ],
+  [
+   "Katılım cevabı neden bu kadar önemli?",
+   "Düğün planının pek çok kalemi kişi sayısına bağlıdır: masa ve sandalye sayısı, ikram, oturma düzeni, hatta ulaşım. Mekânlar ve ikram firmaları çoğu zaman düğünden belli bir süre önce kesin sayı ister; bu sürenin ne kadar olduğunu kendi sözleşmenizden kontrol edin. <b>Tahmine dayalı bir sayı</b> ya boş masalara ya da yetersiz ikrama yol açar. Erken toplanan cevaplar son haftalardaki telaşı azaltır ve kimin geleceğini bilerek oturma planını rahatça yapmanızı sağlar. Bütçeyi de gerçek sayıya göre kesinleştirirsiniz."
+  ],
+  [
+   "Formda hangi bilgiler sorulmalı?",
+   "İyi bir katılım formu kısadır; misafir onu bir dakikadan kısa sürede doldurabilmelidir. Temel sorular şunlardır: <b>ad soyad</b>, katılıp katılamayacağı ve kaç kişi geleceği. İsteğe bağlı kısa bir not alanı, misafirin özel bir durumu belirtmesine ya da tebrik mesajı yazmasına imkân verir. WeddingInvite davetiyesindeki form tam olarak bunları sorar: ad soyad, “Katılıyorum” ya da “Katılamıyorum”, 1 ile 10 arasında kişi sayısı ve isteğe bağlı bir not. Gereğinden fazla soru, formun yarıda bırakılma ihtimalini artırır."
+  ],
+  [
+   "Son cevap tarihi nasıl belirlenir?",
+   "Son cevap tarihini, mekânın ya da ikram firmasının kesin sayı istediği tarihten bir iki hafta önceye koymak güvenli bir yaklaşımdır; böylece geç gelen cevaplar ve hatırlatmalar için zamanınız kalır. Tarihi davetiyede açıkça yazın, örneğin: “Lütfen 15 Mayıs'a kadar cevap veriniz.” <b>Belirsiz ifadeler</b> yerine somut bir gün yazmak misafirin işini kolaylaştırır. Davetiyeyi düğünden altı ila sekiz hafta önce gönderdiyseniz, son tarihi düğünden üç dört hafta önceye koymak çoğu plan için yeterlidir."
+  ],
+  [
+   "Cevap vermeyenlere hatırlatma ve kişi sayısı",
+   "Her düğünde cevap vermeyen misafirler olur; bu çoğu zaman ilgisizlikten değil, unutmaktan kaynaklanır. Son tarihten birkaç gün önce kısa ve nazik bir mesajla davetiye linkini yeniden göndermek genellikle yeterlidir. Kişi sayısını hesaplarken katılacağını bildirenlerin kişi sayılarını toplayın ve <b>katılamayanları</b> ayrı bir listede tutun. Son tarihe kadar hâlâ cevap vermeyenleri telefonla aramak belirsiz kalan sayıyı en aza indirir. Kesin sayıyı bildirirken küçük bir pay bırakıp bırakmamayı mekânla konuşun."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Bilgileri ve son tarihi belirleyin",
+   "Davetiye bilgilerini hazırlayın ve mekânın kesin sayı istediği tarihe göre bir son cevap tarihi seçin."
+  ],
+  [
+   "Formu inceleyin",
+   "Katılım formunu canlı örneğin beşinci kartında deneyebilirsiniz. Kendi davetiyeniz için bu sayfadaki e-posta adresinden bize yazın."
+  ],
+  [
+   "Kişiye özel linkleri paylaşın",
+   "Adresin sonuna ?k=Ad ekleyin; misafir formu açtığında adı hazır gelir, yalnız katılımı ve kişi sayısını seçer."
+  ],
+  [
+   "Cevapları takip edin ve hatırlatın",
+   "Cevaplara göre kişi sayısını toplayın; son tarihten önce cevap vermeyenlere linki kısa bir notla yeniden gönderin."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "LCV'nin açılımı nedir?",
+   "LCV, “Lütfen Cevap Veriniz” demektir. Davetiyede bu ifade varsa ev sahibi, katılıp katılmayacağınızı belirtilen tarihe kadar bildirmenizi rica ediyor demektir. İngilizce davetiyelerde aynı anlamda RSVP kullanılır."
+  ],
+  [
+   "Katılmayacaksam da LCV'ye cevap vermeli miyim?",
+   "Evet. Katılamayacağınızı bildirmek, katılacağınızı bildirmek kadar önemlidir; çift bu sayede kişi sayısını kesinleştirir ve sizin için boşa yer ayırmaz. Kısa ve nazik bir cevap yeterlidir."
+  ],
+  [
+   "Misafir cevabını sonradan değiştirebilir mi?",
+   "WeddingInvite'ın canlı örneğinde cevap kaydedildikten sonra o tarayıcıda hatırlanır ve “Cevabı değiştir” seçeneği görünür; misafir katılım durumunu ya da kişi sayısını yeniden seçebilir. Örnekteki cevaplar çifte gönderilmez. Planlar son anda değişirse çifte ayrıca haber vermek de incelikli olur."
+  ],
+  [
+   "Katılım formunda kişi sayısı nasıl sorulur?",
+   "En kolay yol, kişi sayısını formda seçilebilir bir alan olarak sormaktır; WeddingInvite formunda 1 ile 10 arasında bir sayı seçilir. Davetin kimleri kapsadığını (tek kişi, çift ya da aile) davet mesajında belirtmek karışıklığı önler."
+  ],
+  [
+   "Son cevap tarihi düğünden ne kadar önce olmalı?",
+   "Kesin bir kural yoktur; belirleyici olan, mekânın ya da ikram firmasının kesin sayı istediği tarihtir. Bu tarihten bir iki hafta önceye son cevap tarihi koymak, geç cevaplar ve hatırlatmalar için zaman bırakır."
+  ]
+ ]
+}

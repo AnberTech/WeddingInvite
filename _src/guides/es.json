@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Paso a paso",
+ "g_faq_h2": "Preguntas frecuentes",
+ "g_cta_h2": "Mira la demo en vivo",
+ "g_cta_p": "Abre tú mismo la puerta sellada: prueba la apertura, las tarjetas, el formulario de asistencia y la cuenta atrás en la invitación de ejemplo. El formulario de la demo es solo una prueba y tu respuesta no se envía a ningún sitio.",
+ "g_cta_btn": "Abrir la demo en vivo",
+ "g_contact": "¿Quieres tu propia invitación? Escríbenos:",
+ "g_other_h2": "Otras guías",
+ "g_lang": "Idioma",
+ "g_home": "Inicio",
+ "make_slug": "invitacion-de-boda-digital",
+ "make_name": "Invitación de boda digital",
+ "make_title": "Invitación de boda digital: cómo hacerla | WeddingInvite",
+ "make_desc": "Qué incluir en una invitación de boda digital, cómo redactar el texto y cuándo enviar el enlace. Ejemplos y consejos para combinarla con la impresa.",
+ "make_h1": "Cómo hacer una invitación de boda digital",
+ "make_lead": "Una invitación de boda digital reúne en un solo enlace la fecha, el lugar, cómo llegar y la confirmación de asistencia. Te contamos qué debe incluir y cuándo enviarla.",
+ "make_card": "Qué incluir, ejemplos de texto y cuándo enviar el enlace.",
+ "make_body": [
+  [
+   "Lo que no puede faltar en la invitación",
+   "Una buena invitación responde a las preguntas de tus invitados antes de que las hagan. La lista básica es corta: <b>los nombres de los novios</b>, quién invita, la fecha y la hora, y el nombre y la dirección del lugar. Después puedes añadir una forma de confirmar asistencia con fecha límite y, si hace falta, una nota breve sobre el código de vestimenta o los niños. En la pantalla del móvil los párrafos largos se pierden; si cada dato tiene su propio espacio, todo se lee mejor. En una invitación de WeddingInvite esta información se reparte en siete tarjetas: los nombres, el texto y las familias, la fecha, el lugar, el formulario de asistencia, el tiempo de ese día y el cierre."
+  ],
+  [
+   "Cómo redactar el texto: ejemplos",
+   "El texto puede ser formal o cercano; lo importante es que refleje la voz de la pareja y de sus familias. Un ejemplo clásico: «Junto a nuestras familias, tenemos el placer de invitarte a celebrar nuestra boda.» Uno más cercano: «¡Nos casamos! Y queremos compartir este día con las personas que más queremos.» Limita el texto a dos o tres frases y muestra la fecha, la hora y la dirección en su propio lugar en vez de esconderlas en el párrafo. Poner los nombres de los padres debajo del texto es un toque tradicional. Cuando termines, léelo en voz alta: <b>si suena natural</b>, vas por buen camino."
+  ],
+  [
+   "Piensa en la experiencia del invitado",
+   "Los primeros segundos cuentan. Una página pensada para el móvil y fácil de leer funciona para invitados de cualquier edad. Una invitación de WeddingInvite se abre con <b>una puerta de mármol sellada</b>: el invitado aparta las hojas con el dedo, o las sopla tras permitir el micrófono, toca el sello y la puerta se abre. De fondo suena música, que se puede apagar con un botón. Abajo, una cuenta atrás muestra los días, horas, minutos y segundos que faltan para la boda. Con los botones «Añadir al calendario» de la tarjeta de la fecha y «Cómo llegar» de la tarjeta del lugar, nadie tiene que buscar datos el día de la boda."
+  ],
+  [
+   "Cuándo y cómo enviar el enlace",
+   "Lo habitual es enviar la invitación entre seis y ocho semanas antes de la boda; a quienes vienen de otra ciudad o de otro país conviene avisarles antes, por ejemplo con un «save the date». Enviar el enlace <b>en un mensaje personal</b> en lugar de en un grupo grande resulta más atento y hace más probable que te respondan. Escribe una frase breve con tus propias palabras y pon el enlace debajo. Una semana antes de la boda puedes volver a compartir el mismo enlace como recordatorio; así la hora, la dirección y cómo llegar quedan a un toque para todos."
+  ],
+  [
+   "Combinarla con la invitación impresa",
+   "La invitación digital no tiene por qué sustituir a la de papel. Muchas parejas imprimen invitaciones para los abuelos y la familia cercana y envían el enlace al resto de invitados. Añadir a la tarjeta impresa un <b>código QR</b> que lleve a la invitación online une las dos opciones: quien tiene la tarjeta en la mano lo escanea y llega a las indicaciones, al calendario y al formulario de asistencia. Así puedes quitar detalles de la tarjeta y mantener un diseño sencillo. Elijas lo que elijas, comprueba que la fecha, la hora y la dirección coincidan exactamente en las dos invitaciones."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Reúne los datos",
+   "Junta en una nota los nombres, el texto, los nombres de las familias, la fecha y la hora, y el nombre y la dirección del lugar; revisa la ortografía con tu familia."
+  ],
+  [
+   "Escríbenos",
+   "Para tener una invitación preparada con tus propios datos, escríbenos a la dirección de correo de esta página."
+  ],
+  [
+   "Comparte el enlace",
+   "Envía el enlace a tus invitados por mensaje. Si añades ?k=Carmen al final de la dirección, la primera tarjeta dice «Para Carmen» y el nombre aparece ya en el formulario."
+  ],
+  [
+   "Sigue las confirmaciones",
+   "Controla las respuestas y el número de asistentes, y manda un recordatorio breve a quien no haya contestado antes de la fecha límite."
+  ]
+ ],
+ "make_faq": [
+  [
+   "¿Hace falta descargar una app para abrir la invitación de boda digital?",
+   "No. Una invitación de WeddingInvite es un único enlace que se abre en el navegador; el invitado no tiene que descargar ninguna app ni registrarse. Está diseñada para el móvil en vertical y, en una pantalla de ordenador ancha, se abre dentro de un marco con forma de teléfono."
+  ],
+  [
+   "¿Es de mala educación enviar la invitación de boda por WhatsApp?",
+   "Un enlace bien cuidado y enviado con un mensaje personal es, para la mayoría de los invitados, una invitación educada y práctica. Para los mayores que valoran la tarjeta en papel, un buen término medio es imprimirles una invitación y enviar además el enlace a todos."
+  ],
+  [
+   "¿Con cuánta antelación se envía la invitación de boda?",
+   "Lo habitual es entre seis y ocho semanas antes de la boda. Avisar antes a quienes vienen de lejos y mandar un recordatorio breve una semana antes ayuda a que los invitados se organicen."
+  ],
+  [
+   "¿Puedo personalizar la invitación con el nombre de cada invitado?",
+   "Sí. Si añades ?k=Carmen al final del enlace, la primera tarjeta de la invitación dice «Para Carmen» y el campo del nombre aparece ya relleno en el formulario de asistencia. Así envías a cada invitado el enlace que termina con su propio nombre."
+  ],
+  [
+   "¿Cómo se muestra el tiempo en la invitación?",
+   "La tarjeta del tiempo muestra el día de la boda. Cuando faltan 14 días o menos, intenta cargar la previsión para ese día; antes, muestra el tiempo que se registró en la misma fecha de un año anterior. Si no se cargan datos, la tarjeta mantiene los valores típicos de la temporada e indica que no es una previsión. Los datos proceden de Open-Meteo."
+  ]
+ ],
+ "engage_slug": "invitacion-de-compromiso-digital",
+ "engage_name": "Invitación de compromiso digital",
+ "engage_title": "Invitación de compromiso digital: textos | WeddingInvite",
+ "engage_desc": "Invitación digital para la pedida de mano o la fiesta de compromiso: ejemplos de texto, envío con poco tiempo, las familias y todos los datos en un enlace.",
+ "engage_h1": "Cómo preparar una invitación de compromiso digital",
+ "engage_lead": "La pedida de mano o la fiesta de compromiso suele organizarse con poco tiempo. Una invitación digital de un solo enlace puede enviarse en cuanto los datos están claros y lo reúne todo.",
+ "engage_card": "Textos para el compromiso, presentar a las familias y envío rápido.",
+ "engage_body": [
+  [
+   "¿Por qué una invitación de compromiso digital?",
+   "La pedida de mano o la fiesta de compromiso suele organizarse en pocas semanas, no en meses. Diseñar, imprimir y repartir invitaciones de papel no siempre cabe en ese calendario. Una invitación de compromiso digital, en cambio, puede enviarse en cuanto los datos están claros. El invitado toca el enlace, ve la fecha y el lugar y puede guardarla <b>con el botón «Añadir al calendario»</b>. Incluso en una reunión pequeña y familiar, que todos vean la misma información correcta cansa mucho menos que explicar los detalles por teléfono uno a uno o repetirlos en decenas de mensajes."
+  ],
+  [
+   "Ejemplos de texto para la invitación de compromiso",
+   "El texto del compromiso puede ser algo más cálido y breve que el de la boda. Un ejemplo: «Con mucha ilusión te invitamos a la pedida de mano de nuestros hijos Elif y Ege.» Otro: «¡Nos hemos prometido! Queremos celebrarlo contigo.» Deja claro qué tipo de celebración es: una pedida de mano, una fiesta o una comida familiar. También importa <b>quién invita</b>: en las celebraciones más tradicionales suelen invitar las familias, mientras que muchas parejas invitan en su propio nombre. Limita el texto a dos o tres frases."
+  ],
+  [
+   "Presentar a las familias",
+   "El compromiso suele ser el día en que las dos familias se reúnen por primera vez ante un grupo más amplio. Poner juntos los nombres de ambas familias en la invitación muestra quién es el anfitrión y tiende un puente natural entre parientes que aún no se conocen. En una invitación de WeddingInvite, el texto y los <b>nombres de las familias</b> comparten tarjeta. Revisa con las dos familias la ortografía, los tratamientos y el orden de los nombres; en este tipo de invitación hasta una pequeña errata se nota y puede molestar. Antes de enviarla, pide que alguien de cada familia la lea."
+  ],
+  [
+   "Cómo prepararte si hay poco tiempo",
+   "Si vas justo de tiempo, cierra primero lo que no va a cambiar: la fecha, la hora y el lugar. Después reúne la lista de invitados en un solo sitio y decide cómo vas a contactar con cada persona. Al enviar el enlace, añade una frase personal; con los abuelos y los mayores, <b>avisar antes con una llamada</b> y luego mandar el enlace suele caer muy bien. Para la mayoría de los invitados basta con enviar la invitación de dos a cuatro semanas antes. Un recordatorio corto unos días antes vuelve a ponerles delante la hora y cómo llegar."
+  ],
+  [
+   "El mismo formato sirve para el compromiso",
+   "Una invitación de WeddingInvite no es solo para bodas: también sirve para el compromiso. La apertura de la puerta sellada, la música, «Añadir al calendario» en la tarjeta de la fecha, «Cómo llegar» en la del lugar, el formulario de asistencia y el tiempo de ese día están también aquí. Abajo, una <b>cuenta atrás</b> muestra cuánto falta para la celebración. Aunque haya menos invitados, saber cuántos vendrán es importante para la comida y la distribución de las mesas; puedes probar el formulario de asistencia en la demo en vivo (las respuestas de ejemplo solo se quedan en tu propio navegador). Cuando se acerque la boda, puedes repetir el mismo estilo."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Concreta los datos",
+   "Decide el tipo de celebración, la fecha, la hora, el lugar y los nombres de las dos familias; revisa la ortografía con ellas."
+  ],
+  [
+   "Escríbenos",
+   "Para tener una invitación de compromiso preparada con tus propios datos, escríbenos a la dirección de correo de esta página."
+  ],
+  [
+   "Envía enlaces personales",
+   "Añade ?k=Carmen al final de la dirección para que cada invitado reciba su propio enlace; en la primera tarjeta pondrá «Para Carmen»."
+  ],
+  [
+   "Controla la asistencia",
+   "Sigue cuántas personas vienen y manda un recordatorio breve unos días antes a quien no haya respondido."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "¿Con cuánta antelación se envía la invitación de compromiso?",
+   "No hay una regla fija. Como el compromiso suele organizarse con menos tiempo que la boda, enviarla de dos a cuatro semanas antes da margen suficiente a la mayoría de los invitados. A quienes vienen de lejos, conviene avisarles antes."
+  ],
+  [
+   "¿Quién invita a la pedida de mano o a la fiesta de compromiso?",
+   "Depende de la tradición y de cada familia. A menudo invita la familia anfitriona o las dos familias juntas, y también es habitual que sea la propia pareja quien invita. Lo importante es que en el texto quede claro quién invita."
+  ],
+  [
+   "¿Una invitación digital queda tan elegante como una impresa?",
+   "Con un texto cuidado y un buen diseño, sí. Una invitación de WeddingInvite se abre con una puerta de mármol sellada que el propio invitado abre, con música de fondo. Para los mayores que prefieren el papel, puedes preparar además una invitación impresa."
+  ],
+  [
+   "¿Puedo usar la misma invitación para el compromiso y la boda?",
+   "Es mejor preparar una invitación para cada celebración, porque la fecha, el lugar y el texto son distintos. Usar el mismo estilo en las dos, en cambio, ofrece a los invitados una experiencia coherente y hace que ambas invitaciones se complementen."
+  ],
+  [
+   "¿Cómo abren los invitados la invitación digital?",
+   "El invitado toca el enlace que le llega por mensaje y la invitación se abre en el navegador del móvil, sin app ni registro. Aparta las hojas con el dedo o sopla tras permitir el micrófono, toca el sello y la puerta se abre."
+  ]
+ ],
+ "rsvp_slug": "confirmacion-asistencia-boda",
+ "rsvp_name": "Confirmación de asistencia",
+ "rsvp_title": "Confirmación de asistencia a la boda: guía | WeddingInvite",
+ "rsvp_desc": "Qué significan S.R.C. y RSVP y qué preguntar en la confirmación de asistencia a la boda. Fecha límite, recordatorios y cálculo de invitados.",
+ "rsvp_h1": "Confirmación de asistencia a la boda: guía de S.R.C. y RSVP",
+ "rsvp_lead": "Saber cuántas personas vendrán es la base para las mesas, el menú y el presupuesto. Te contamos cómo preparar la confirmación de asistencia y reunir todas las respuestas.",
+ "rsvp_card": "Qué es S.R.C., qué preguntar, fecha límite y recordatorios.",
+ "rsvp_body": [
+  [
+   "¿Qué significan S.R.C. y RSVP?",
+   "S.R.C. es la abreviatura de «se ruega contestación»; su equivalente internacional es RSVP, del francés «répondez s'il vous plaît». Las dos expresan la misma petición: que el invitado diga si asistirá o no. Si la invitación lleva S.R.C. y una fecha, el invitado debe responder a los anfitriones antes de ese día. Antes la respuesta se daba por teléfono o con una tarjeta; hoy <b>un formulario de asistencia digital</b> que reúne las respuestas en una lista puede resolverlo en segundos, en lugar de notas sueltas. Además, el invitado responde en el mismo sitio donde abre la invitación."
+  ],
+  [
+   "¿Por qué es tan importante confirmar la asistencia?",
+   "Muchas partidas de la boda dependen del número de invitados: mesas y sillas, el catering, la distribución de las mesas e incluso el transporte. Los lugares de celebración y los servicios de catering suelen pedir la cifra definitiva un tiempo antes de la boda; consulta en tu propio contrato con cuánta antelación. <b>Una cifra calculada a ojo</b> acaba en mesas vacías o en comida insuficiente. Reunir las respuestas pronto quita presión a las últimas semanas y te permite organizar las mesas con calma, sabiendo quién viene. También cierras el presupuesto con el número real."
+  ],
+  [
+   "Qué preguntar en el formulario",
+   "Un buen formulario de asistencia es corto: el invitado debería rellenarlo en menos de un minuto. Las preguntas básicas son: <b>nombre y apellidos</b>, si asistirá y cuántas personas vendrán. Un campo opcional para un mensaje le permite indicar algo especial o dejar una felicitación. El formulario de una invitación de WeddingInvite pregunta exactamente eso: nombre y apellidos, «Asistiré con gusto» o «No podré asistir», un número de personas de 1 a 10 y un mensaje opcional. Cada pregunta de más aumenta la probabilidad de que alguien deje el formulario a medias."
+  ],
+  [
+   "Cómo fijar la fecha límite",
+   "Una opción segura es poner la fecha límite una o dos semanas antes del día en que el lugar o el catering necesita la cifra definitiva; así te queda tiempo para respuestas tardías y recordatorios. Escribe la fecha con claridad en la invitación, por ejemplo: «S.R.C. antes del 15 de mayo.» Un día concreto en lugar de <b>expresiones vagas</b> como «cuanto antes» facilita las cosas al invitado. Si enviaste la invitación entre seis y ocho semanas antes, una fecha límite de tres a cuatro semanas antes de la boda basta para la mayoría de los planes."
+  ],
+  [
+   "Recordatorios y número de invitados",
+   "En todas las bodas hay invitados que no responden, y casi siempre es por olvido, no por desinterés. Unos días antes de la fecha límite, un mensaje breve y amable con el enlace de la invitación suele ser suficiente. Para calcular el número de asistentes, suma las personas de cada confirmación y lleva <b>a quienes no pueden venir</b> en una lista aparte. Llamar por teléfono a quien siga sin contestar al llegar la fecha límite reduce al mínimo la incertidumbre. Cuando des la cifra definitiva, habla con el lugar de la celebración sobre si conviene dejar un pequeño margen."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Define los datos y la fecha límite",
+   "Prepara los datos de la invitación y elige una fecha límite según el día en que el lugar necesita la cifra definitiva."
+  ],
+  [
+   "Prueba el formulario",
+   "Puedes probar el formulario de asistencia en la quinta tarjeta de la demo en vivo. Para tu propia invitación, escríbenos a la dirección de correo de esta página."
+  ],
+  [
+   "Comparte enlaces personales",
+   "Añade ?k=Carmen al final de la dirección; al abrir el formulario el nombre ya aparece y el invitado solo elige si asiste y cuántos serán."
+  ],
+  [
+   "Sigue las respuestas y recuerda",
+   "Suma las personas según llegan las respuestas y reenvía el enlace con una nota breve a quien no haya contestado antes de la fecha límite."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "¿Qué significa S.R.C. en una invitación de boda?",
+   "S.R.C. significa «se ruega contestación». Si aparece en una invitación, los anfitriones te piden que les digas si vas a asistir antes de la fecha indicada. En las invitaciones internacionales se usa RSVP con el mismo sentido."
+  ],
+  [
+   "¿Tengo que responder aunque no vaya a asistir?",
+   "Sí. Decir que no puedes ir es tan importante como confirmar que vas: así la pareja cierra el número de invitados y no reserva un sitio que se quedará vacío. Basta con una respuesta breve y amable."
+  ],
+  [
+   "¿Puede el invitado cambiar su respuesta después?",
+   "En la demo en vivo de WeddingInvite, la respuesta se recuerda en ese navegador una vez guardada y aparece la opción «Cambiar respuesta»; el invitado puede volver a elegir si asiste o cuántas personas serán. Las respuestas de ejemplo no se envían a la pareja. Si los planes cambian a última hora, también es un detalle avisar a la pareja."
+  ],
+  [
+   "¿Cómo se pregunta el número de personas en el formulario?",
+   "Lo más sencillo es preguntarlo como un campo para elegir en el formulario; en WeddingInvite se elige un número del 1 al 10. Indicar en el mensaje a quién incluye la invitación (una persona, una pareja o la familia) evita confusiones."
+  ],
+  [
+   "¿Con cuánta antelación debe ser la fecha límite de confirmación?",
+   "No hay una regla fija: lo que manda es el día en que el lugar o el catering necesita la cifra definitiva. Fijar la fecha límite una o dos semanas antes de ese día deja margen para respuestas tardías y recordatorios."
+  ]
+ ]
+}

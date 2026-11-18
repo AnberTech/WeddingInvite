@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Schritt für Schritt",
+ "g_faq_h2": "Häufige Fragen",
+ "g_cta_h2": "Live-Demo ansehen",
+ "g_cta_p": "Öffnen Sie die versiegelte Tür selbst: Probieren Sie in der Beispiel-Einladung die Öffnung, die Karten, das Antwortformular und den Countdown aus. Das Formular dort ist nur eine Demo und sendet Ihre Antwort nirgendwohin.",
+ "g_cta_btn": "Live-Demo öffnen",
+ "g_contact": "Ihre eigene Einladung? Schreiben Sie uns:",
+ "g_other_h2": "Weitere Ratgeber",
+ "g_lang": "Sprache",
+ "g_home": "Startseite",
+ "make_slug": "online-hochzeitseinladung",
+ "make_name": "Online-Hochzeitseinladung",
+ "make_title": "Online-Hochzeitseinladung erstellen | WeddingInvite",
+ "make_desc": "Was gehört in eine Online-Hochzeitseinladung, wie formuliert man den Text, wann geht der Link raus? Tipps, Beispiele und Kombination mit Papierkarten.",
+ "make_h1": "Online-Hochzeitseinladung erstellen: so geht’s",
+ "make_lead": "Eine Online-Hochzeitseinladung bündelt Datum, Ort, Anfahrt und Rückmeldung in einem Link, den Ihre Gäste auf dem Handy öffnen. Hier lesen Sie, was hineingehört und wann Sie ihn verschicken.",
+ "make_card": "Was hineingehört, Textbeispiele und der richtige Zeitpunkt für den Link.",
+ "make_body": [
+  [
+   "Was in jede Hochzeitseinladung gehört",
+   "Eine gute Einladung beantwortet die Fragen Ihrer Gäste, bevor sie gestellt werden. Die Grundliste ist kurz: <b>die Namen des Brautpaars</b>, wer einlädt, Datum und Uhrzeit sowie Name und Adresse der Location. Dazu kommen ein Weg zur Rückmeldung mit einem Antwortdatum und bei Bedarf ein kurzer Hinweis zu Dresscode oder Kindern. Auf dem Handybildschirm gehen lange Absätze unter; steht jede Information in einem eigenen Bereich, liest es sich leichter. In einer Einladung von WeddingInvite verteilen sich diese Angaben auf sieben Karten: Namen, Einladungstext und Familien, Datum, Location, Antwortformular, das Wetter am Hochzeitstag und ein Abschluss."
+  ],
+  [
+   "Einladungstext formulieren: Beispiele",
+   "Der Text darf förmlich oder locker sein; wichtig ist, dass er nach Ihnen beiden klingt. Ein klassisches Beispiel: „Gemeinsam mit unseren Familien laden wir Sie herzlich zu unserer Hochzeit ein.“ Persönlicher klingt: „Wir trauen uns! Feiert diesen Tag mit uns, wir würden uns riesig freuen.“ Halten Sie den Text bei zwei, drei Sätzen und zeigen Sie Datum, Uhrzeit und Adresse an eigener Stelle, statt sie im Fließtext zu verstecken. Die Namen der Eltern unter dem Text sind eine traditionelle Note. Lesen Sie den Text zum Schluss laut vor: <b>Klingt er natürlich</b>, sind Sie auf dem richtigen Weg."
+  ],
+  [
+   "An das Erlebnis der Gäste denken",
+   "Die ersten Sekunden nach dem Öffnen zählen. Eine fürs Handy gestaltete, gut lesbare Seite überfordert Gäste keines Alters. Eine Einladung von WeddingInvite öffnet sich mit <b>einer versiegelten Marmortür</b>: Der Gast wischt die Blätter mit dem Finger beiseite oder pustet sie weg, nachdem er das Mikrofon erlaubt hat, tippt auf das Siegel, und die Tür geht auf. Im Hintergrund läuft Musik, die sich per Knopf ausschalten lässt. Unten zählt ein Countdown Tage, Stunden, Minuten und Sekunden bis zur Hochzeit. Dank „In Kalender eintragen“ auf der Datumskarte und „Route planen“ auf der Ortskarte muss am großen Tag niemand nach Details suchen."
+  ],
+  [
+   "Wann und wie Sie den Link verschicken",
+   "Üblich ist es, die Einladung sechs bis acht Wochen vor der Hochzeit zu verschicken; Gäste, die aus einer anderen Stadt oder dem Ausland anreisen, freuen sich über eine frühere Vorankündigung, etwa eine Save-the-Date-Nachricht. Den Link <b>als persönliche Nachricht</b> statt in einer großen Gruppe zu senden, wirkt aufmerksamer und erhöht die Chance auf eine Antwort. Schreiben Sie ein, zwei eigene Sätze und setzen Sie den Link darunter. Etwa eine Woche vor der Hochzeit können Sie denselben Link als kleine Erinnerung noch einmal teilen; Uhrzeit, Adresse und Anfahrt sind dann mit einem Tipp wieder da."
+  ],
+  [
+   "Mit gedruckten Einladungskarten kombinieren",
+   "Eine digitale Einladung muss die Papierkarte nicht ersetzen. Viele Paare schicken Großeltern und enger Familie eine gedruckte Karte und dem übrigen Gästekreis den Link. Ein <b>QR-Code</b> auf der Karte, der zur Online-Einladung führt, verbindet beides: Wer die Karte in der Hand hält, scannt den Code und gelangt zu Anfahrt, Kalendereintrag und Antwortformular. So können Sie auf der gedruckten Karte Details weglassen und das Design schlicht halten. Ganz gleich, wofür Sie sich entscheiden: Prüfen Sie, ob Datum, Uhrzeit und Adresse auf beiden Einladungen genau übereinstimmen."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Angaben sammeln",
+   "Tragen Sie Namen, Einladungstext, Familiennamen, Datum und Uhrzeit sowie Name und Adresse der Location in einer Notiz zusammen und lassen Sie die Schreibweise von der Familie prüfen."
+  ],
+  [
+   "Schreiben Sie uns",
+   "Für eine Einladung mit Ihren eigenen Angaben schreiben Sie uns an die E-Mail-Adresse auf dieser Seite."
+  ],
+  [
+   "Link teilen",
+   "Schicken Sie den Link per Nachricht an Ihre Gäste. Hängen Sie ?k=Anna an die Adresse an, steht auf der ersten Karte „Für Anna“ und der Name ist im Formular schon eingetragen."
+  ],
+  [
+   "Rückmeldungen verfolgen",
+   "Behalten Sie die Zusagen und die Personenzahl im Blick und erinnern Sie alle, die noch nicht geantwortet haben, kurz vor dem Antwortdatum."
+  ]
+ ],
+ "make_faq": [
+  [
+   "Brauchen Gäste eine App für die Online-Hochzeitseinladung?",
+   "Nein. Eine Einladung von WeddingInvite ist ein einziger Link, der im Browser öffnet; Ihre Gäste müssen weder eine App laden noch ein Konto anlegen. Sie ist für das hochkant gehaltene Handy gestaltet; auf einem breiten Computerbildschirm öffnet sie sich in einem Rahmen im Handyformat."
+  ],
+  [
+   "Ist es unhöflich, die Hochzeitseinladung per WhatsApp oder E-Mail zu schicken?",
+   "Für die meisten Gäste ist ein sorgfältig gestalteter Link mit einer persönlichen Nachricht höflich und praktisch zugleich. Für ältere Verwandte, denen eine Karte wichtig ist, ist es ein guter Mittelweg, zusätzlich eine gedruckte Einladung zu schicken und allen den Link zu senden."
+  ],
+  [
+   "Wie lange vor der Hochzeit verschickt man die Einladung?",
+   "Üblich sind sechs bis acht Wochen vor der Hochzeit. Gästen mit weiter Anreise sollten Sie früher Bescheid geben, etwa mit einer Save-the-Date-Nachricht, und etwa eine Woche vor dem Fest eine kurze Erinnerung schicken."
+  ],
+  [
+   "Kann ich jeden Gast mit Namen ansprechen?",
+   "Ja. Hängen Sie ?k=Anna an das Ende des Links an, dann steht auf der ersten Karte der Einladung „Für Anna“ und im Antwortformular ist der Name bereits eingetragen. So schicken Sie jedem Gast einen Link, der mit seinem eigenen Namen endet."
+  ],
+  [
+   "Wie funktioniert die Wetteranzeige in der Einladung?",
+   "Die Wetterkarte zeigt den Hochzeitstag. Ab 14 Tagen vorher versucht sie, eine Vorhersage zu laden; davor zeigt sie das am selben Datum eines früheren Jahres gemessene Wetter. Ohne Daten bleiben typische Werte der Jahreszeit stehen, mit dem Hinweis, dass es keine Vorhersage ist. Die Daten stammen von Open-Meteo."
+  ]
+ ],
+ "engage_slug": "digitale-verlobungseinladung",
+ "engage_name": "Digitale Verlobungseinladung",
+ "engage_title": "Digitale Verlobungseinladung: Text & Tipps | WeddingInvite",
+ "engage_desc": "Digitale Verlobungseinladung: Textbeispiele, kurzfristig verschicken, beide Familien vorstellen und Datum, Ort und Rückmeldung in einem einzigen Link.",
+ "engage_h1": "Digitale Verlobungseinladung gestalten",
+ "engage_lead": "Eine Verlobungsfeier wird oft kurzfristig geplant. Eine digitale Verlobungseinladung als Link lässt sich verschicken, sobald die Eckdaten feststehen, und bündelt alle Informationen.",
+ "engage_card": "Einladungstext zur Verlobung, Familien vorstellen und schnell verschicken.",
+ "engage_body": [
+  [
+   "Warum die Verlobungseinladung digital sein kann",
+   "Verlobungsfeiern werden meist in wenigen Wochen geplant, nicht in Monaten. Gedruckte Karten gestalten, drucken und verteilen zu lassen, passt nicht immer in diesen Zeitplan. Eine digitale Verlobungseinladung dagegen kann verschickt werden, sobald die Eckdaten feststehen. Der Gast tippt auf den Link, sieht Datum und Ort und kann den Termin <b>mit „In Kalender eintragen“</b> in seinem Kalender speichern. Selbst bei einer kleinen Feier im Familienkreis ist es viel weniger mühsam, wenn alle dieselben richtigen Angaben sehen, als jedem einzeln am Telefon alles zu erklären oder es in Dutzenden Nachrichten zu wiederholen."
+  ],
+  [
+   "Textbeispiele für die Verlobungseinladung",
+   "Der Text zur Verlobung darf etwas herzlicher und kürzer sein als eine Hochzeitseinladung. Ein Beispiel: „Wir haben uns verlobt und möchten diesen Moment mit Ihnen feiern.“ Ein anderes: „Unsere Kinder Elif und Ege haben sich verlobt; wir laden Sie herzlich zur Verlobungsfeier ein.“ Machen Sie deutlich, welche Art Feier es ist: eine Party, ein Essen oder ein kleines Beisammensein im Familienkreis? Wichtig ist auch, <b>wer einlädt</b>: Manchmal laden die Familien ein, oft das Paar selbst. Beschränken Sie den Text auf zwei, drei Sätze."
+  ],
+  [
+   "Die Familien vorstellen",
+   "Die Verlobung ist oft der Tag, an dem beide Familien zum ersten Mal vor einem größeren Kreis zusammenkommen. Stehen die Namen beider Familien gemeinsam auf der Einladung, sehen die Gäste, wer Gastgeber ist, und Verwandte, die sich noch nicht kennen, finden einen natürlichen Anknüpfungspunkt. In einer Einladung von WeddingInvite stehen Einladungstext und <b>Familiennamen</b> auf derselben Karte. Prüfen Sie Schreibweise, Titel und Reihenfolge der Namen mit beiden Familien; bei solchen Einladungen fällt schon ein kleiner Tippfehler auf und kann kränken. Lassen Sie den Text vor dem Versand von beiden Seiten lesen."
+  ],
+  [
+   "Kurzfristig verschicken: so bereiten Sie sich vor",
+   "Wenn die Zeit knapp ist, legen Sie zuerst fest, was sich nicht mehr ändert: Datum, Uhrzeit und Ort. Sammeln Sie dann die Gästeliste an einem Ort und überlegen Sie, wie Sie jeden erreichen. Schreiben Sie zum Link einen kurzen persönlichen Satz; gerade bei Großeltern und älteren Verwandten kommt <b>ein kurzer Anruf vorab</b> und danach der Link gut an. Zwei bis vier Wochen vor der Feier verschickt, reicht die Einladung für die meisten Gäste. Eine kurze Erinnerung wenige Tage vorher bringt Uhrzeit und Anfahrt noch einmal nach vorn."
+  ],
+  [
+   "Das gleiche Format passt auch zur Verlobung",
+   "Eine Einladung von WeddingInvite eignet sich nicht nur für die Hochzeit, sondern auch für die Verlobung. Die versiegelte Tür, die Musik, „In Kalender eintragen“ auf der Datumskarte, „Route planen“ auf der Ortskarte, das Antwortformular und das Wetter am Tag der Feier sind auch hier dabei. Unten zeigt ein <b>Countdown</b>, wie lange es noch bis zur Feier dauert. Auch bei weniger Gästen ist es für Essen und Sitzordnung wichtig zu wissen, wie viele kommen; das Antwortformular können Sie in der Live-Demo ausprobieren (Beispielantworten bleiben nur in Ihrem eigenen Browser). Rückt die Hochzeit näher, können Sie denselben Stil wieder verwenden."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Eckdaten der Feier festlegen",
+   "Legen Sie Art der Feier, Datum, Uhrzeit, Ort und die Namen beider Familien fest und prüfen Sie die Schreibweise mit den Familien."
+  ],
+  [
+   "Schreiben Sie uns",
+   "Für eine Verlobungseinladung mit Ihren eigenen Angaben schreiben Sie uns an die E-Mail-Adresse auf dieser Seite."
+  ],
+  [
+   "Persönliche Links verschicken",
+   "Hängen Sie ?k=Anna an die Adresse an, damit jeder Gast einen eigenen Link erhält; auf der ersten Karte steht dann „Für Anna“."
+  ],
+  [
+   "Zusagen im Blick behalten",
+   "Verfolgen Sie, wie viele kommen, und erinnern Sie alle ohne Antwort wenige Tage vor der Feier mit einer kurzen Nachricht."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "Wie lange vorher verschickt man eine Verlobungseinladung?",
+   "Eine feste Regel gibt es nicht. Da eine Verlobungsfeier meist kurzfristiger geplant wird als eine Hochzeit, lassen zwei bis vier Wochen den meisten Gästen genug Zeit. Gäste mit weiter Anreise informieren Sie besser früher."
+  ],
+  [
+   "Wer lädt zur Verlobungsfeier ein?",
+   "Das hängt von Familie und Tradition ab. Oft laden die Eltern eines Partners oder beide Familien gemeinsam ein; ebenso verbreitet ist, dass das Paar selbst einlädt. Wichtig ist, dass aus dem Text klar hervorgeht, wer einlädt."
+  ],
+  [
+   "Wirkt eine digitale Verlobungseinladung so edel wie eine gedruckte?",
+   "Mit einem sorgfältigen Text und einer guten Gestaltung: ja. Eine Einladung von WeddingInvite öffnet sich mit einer versiegelten Marmortür, die der Gast selbst öffnet, und im Hintergrund spielt Musik. Älteren Verwandten können Sie zusätzlich eine gedruckte Karte schicken."
+  ],
+  [
+   "Kann ich dieselbe Einladung für Verlobung und Hochzeit nutzen?",
+   "Für jede Feier eine eigene Einladung ist sinnvoller, denn Datum, Ort und Text unterscheiden sich. Denselben Stil für beide Feiern zu verwenden, gibt Ihren Gästen dagegen ein stimmiges Erlebnis, und die beiden Einladungen ergänzen sich."
+  ],
+  [
+   "Wie öffnen Gäste die digitale Einladung?",
+   "Der Gast tippt auf den Link in der Nachricht, und die Einladung öffnet sich im Browser des Handys, ohne App und ohne Konto. Er wischt die Blätter mit dem Finger beiseite oder pustet nach Freigabe des Mikrofons, tippt auf das Siegel, und die Tür geht auf."
+  ]
+ ],
+ "rsvp_slug": "rueckmeldekarte-hochzeit",
+ "rsvp_name": "Rückmeldung zur Hochzeit",
+ "rsvp_title": "Rückmeldekarte Hochzeit: u.A.w.g. & Zusage | WeddingInvite",
+ "rsvp_desc": "Was bedeuten u.A.w.g. und RSVP, was fragt eine Rückmeldekarte zur Hochzeit ab? Tipps zu Antwortdatum, Erinnerungen und zur Planung der Gästezahl.",
+ "rsvp_h1": "Rückmeldekarte zur Hochzeit: Zusagen richtig einholen",
+ "rsvp_lead": "Wie viele Gäste kommen, entscheidet über Tische, Essen und Budget. So richten Sie die Rückmeldung zur Hochzeit ein und sammeln jede Zusage und Absage.",
+ "rsvp_card": "u.A.w.g. erklärt, was man abfragt, Antwortdatum und Erinnerungen.",
+ "rsvp_body": [
+  [
+   "Was bedeuten u.A.w.g. und RSVP?",
+   "u.A.w.g. steht für „um Antwort wird gebeten“; international verbreitet ist RSVP, die Abkürzung des französischen „répondez s'il vous plaît“. Beide bedeuten dasselbe: Der Gast soll mitteilen, ob er kommt oder nicht. Steht auf der Einladung ein Datum dazu, sollte die Zusage oder Absage bis dahin beim Brautpaar sein. Früher lag dafür eine Rückmeldekarte bei oder man rief an; heute kann <b>ein digitales Antwortformular</b>, das die Antworten in einer Liste sammelt, das in wenigen Sekunden erledigen. Und der Gast antwortet direkt dort, wo er die Einladung geöffnet hat."
+  ],
+  [
+   "Warum die Rückmeldung so wichtig ist",
+   "Vieles in der Hochzeitsplanung hängt von der Gästezahl ab: Tische und Stühle, Catering, Sitzordnung, sogar die Fahrten. Locations und Caterer möchten die endgültige Zahl meist eine gewisse Zeit vor der Hochzeit wissen; wie lange vorher, steht in Ihrem eigenen Vertrag. <b>Eine geschätzte Zahl</b> führt entweder zu leeren Tischen oder zu knappem Essen. Früh gesammelte Antworten nehmen den Druck aus den letzten Wochen und erlauben Ihnen, die Sitzordnung in Ruhe zu planen, weil Sie wissen, wer kommt. Auch das Budget legen Sie dann anhand der echten Zahl fest."
+  ],
+  [
+   "Was das Antwortformular abfragen sollte",
+   "Ein gutes Antwortformular ist kurz; der Gast sollte es in weniger als einer Minute ausfüllen können. Die Grundfragen lauten: <b>Vor- und Nachname</b>, ob er kommt und mit wie vielen Personen. Ein optionales Feld für eine Nachricht lässt Platz für Besonderheiten oder einen Glückwunsch. Das Formular in einer Einladung von WeddingInvite fragt genau das ab: Vor- und Nachname, „Ich komme gern“ oder „Leider verhindert“, eine Personenzahl von 1 bis 10 und eine optionale Nachricht. Jede zusätzliche Frage erhöht das Risiko, dass jemand mittendrin abbricht."
+  ],
+  [
+   "Das Antwortdatum festlegen",
+   "Sicher ist es, das Antwortdatum ein bis zwei Wochen vor den Termin zu legen, an dem Location oder Caterer die endgültige Zahl brauchen; so bleibt Zeit für späte Antworten und Erinnerungen. Schreiben Sie das Datum klar auf die Einladung, etwa: „Um Antwort wird gebeten bis zum 15. Mai.“ Ein konkreter Tag statt <b>vager Formulierungen</b> wie „bitte bald“ macht es den Gästen leichter. Haben Sie die Einladung sechs bis acht Wochen vorher verschickt, reicht für die meisten Planungen ein Antwortdatum drei bis vier Wochen vor der Hochzeit."
+  ],
+  [
+   "Nachfassen und die Gästezahl planen",
+   "Bei jeder Hochzeit gibt es Gäste, die nicht antworten; meist haben sie es schlicht vergessen und sind nicht etwa desinteressiert. Eine kurze, freundliche Nachricht mit dem Einladungslink einige Tage vor dem Antwortdatum genügt oft. Für die Gästezahl addieren Sie die Personenzahlen aller Zusagen und führen <b>die Absagen</b> auf einer eigenen Liste. Wer bis zum Antwortdatum immer noch nicht reagiert hat, den rufen Sie am besten an; so bleiben kaum offene Plätze. Sprechen Sie mit der Location ab, ob Sie bei der endgültigen Zahl einen kleinen Puffer einplanen."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Angaben und Antwortdatum festlegen",
+   "Bereiten Sie die Angaben für die Einladung vor und wählen Sie ein Antwortdatum passend zu dem Termin, an dem die Location die endgültige Zahl braucht."
+  ],
+  [
+   "Formular ausprobieren",
+   "Das Antwortformular können Sie auf der fünften Karte der Live-Demo ausprobieren. Für Ihre eigene Einladung schreiben Sie uns an die E-Mail-Adresse auf dieser Seite."
+  ],
+  [
+   "Persönliche Links teilen",
+   "Hängen Sie ?k=Anna an die Adresse an; öffnet der Gast das Formular, ist sein Name schon eingetragen, und er wählt nur Teilnahme und Personenzahl."
+  ],
+  [
+   "Antworten verfolgen und erinnern",
+   "Zählen Sie die Personen aus den Zusagen zusammen und schicken Sie allen ohne Antwort vor dem Antwortdatum den Link mit einer kurzen Notiz erneut."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "Was heißt u.A.w.g. auf einer Hochzeitseinladung?",
+   "u.A.w.g. bedeutet „um Antwort wird gebeten“. Steht es auf der Einladung, bittet das Brautpaar Sie, bis zum genannten Datum mitzuteilen, ob Sie kommen. Auf internationalen Einladungen steht mit derselben Bedeutung RSVP."
+  ],
+  [
+   "Muss ich auch antworten, wenn ich nicht komme?",
+   "Ja. Eine Absage ist genauso wichtig wie eine Zusage: Nur so kann das Paar die Gästezahl festlegen und muss keinen Platz für Sie freihalten, der leer bleibt. Eine kurze, freundliche Antwort genügt."
+  ],
+  [
+   "Können Gäste ihre Antwort später ändern?",
+   "In der Live-Demo von WeddingInvite merkt sich dieser Browser die Antwort nach dem Speichern, und die Option „Antwort ändern“ erscheint; der Gast kann Teilnahme oder Personenzahl neu wählen. Beispielantworten werden nicht an das Paar gesendet. Ändern sich Pläne kurzfristig, ist es aufmerksam, dem Paar zusätzlich Bescheid zu geben."
+  ],
+  [
+   "Wie fragt man im Formular die Personenzahl ab?",
+   "Am einfachsten als Auswahlfeld im Formular; bei WeddingInvite wählt der Gast eine Zahl von 1 bis 10. Wenn Sie in der Einladungsnachricht klar sagen, wen die Einladung umfasst (eine Person, ein Paar oder die ganze Familie), vermeiden Sie Missverständnisse."
+  ],
+  [
+   "Wie lange vor der Hochzeit sollte das Antwortdatum liegen?",
+   "Eine feste Regel gibt es nicht; entscheidend ist, wann Location oder Caterer die endgültige Zahl brauchen. Legen Sie das Antwortdatum ein bis zwei Wochen davor, bleibt Zeit für späte Antworten und Erinnerungen."
+  ]
+ ]
+}

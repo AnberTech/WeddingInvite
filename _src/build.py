@@ -19,6 +19,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import guide_page  # noqa: E402
+
 SRC = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(SRC)
 SITE = 'https://anbertech.github.io/'
@@ -35,6 +38,17 @@ LANGS = [
     ('zh-Hans', 'ltr', 'zh_CN', 'zh-CN', 'hans'),
 ]
 LANG = {l[0]: l for l in LANGS}
+NAMES = {'tr': 'Türkçe', 'en': 'English', 'ar': 'العربية', 'de': 'Deutsch', 'es': 'Español', 'fr': 'Français', 'hi': 'हिन्दी',
+         'id': 'Bahasa Indonesia', 'it': 'Italiano', 'ja': '日本語', 'ko': '한국어', 'nl': 'Nederlands', 'pl': 'Polski', 'pt': 'Português',
+         'ru': 'Русский', 'zh-Hans': '简体中文'}
+EMAIL = 'destek.anbertech@gmail.com'
+ICON = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='%23d81b3c' d='M16 29S2.5 20.6 2.5 11.2C2.5 6.8 5.9 3.5 10 3.5c2.6 0 4.8 1.3 6 3.4 1.2-2.1 3.4-3.4 6-3.4 4.1 0 7.5 3.3 7.5 7.7C29.5 20.6 16 29 16 29z'/%3E%3C/svg%3E"   # davetiyedeki kalp simgesi (rehber sayfaları için)
+TOPICS = ('make', 'engage', 'rsvp')   # rehberler: online davetiye, nişan davetiyesi, katılım formu (_src/guides/<dil>.json)
+GUIDE_THEME = (":root{--bg:#f6f3ee;--card:#fffdf9;--soft:#efe8de;--line:#e2d9cc;--ink:#3f342b;--muted:#6f6154;--acc:#7a2c3b;"
+               "--f-head:'Cormorant Garamond','Iowan Old Style','Palatino Linotype',Georgia,serif;--f-text:'Iowan Old Style','Palatino Linotype',Georgia,serif;"
+               "--f-ui:-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}"
+               "html[lang=ja],html[lang=zh-Hans],html[lang=ar],html[lang=hi]{--f-head:serif;--f-text:serif}"
+               "html[lang=ko]{--f-head:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;--f-text:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif}")
 
 # Latin dışı yazılar: gömülü Latin fontların ardından denenecek sistem fontları (serif, sans)
 FONT_STACK = {
@@ -212,7 +226,21 @@ def ics(code, t):
     return '\r\n'.join(ics_fold(x) for x in lines) + '\r\n'
 
 
-def sitemap(built):
+def guide_url(code, G, x):
+    return url(code) + G[code][f'{x}_slug'] + '/'
+
+
+def build_guides(G, gbuilt):
+    org = {'@type': 'Organization', '@id': ORG, 'name': 'AnberTech', 'url': SITE, 'email': EMAIL}
+    for c in gbuilt:
+        for x in TOPICS:
+            page = guide_page.render(code=c, dirn=LANG[c][1], og_locale=LANG[c][2], lang_names=NAMES, built=gbuilt, x=x, t=G[c], topics=TOPICS,
+                                     url_of=lambda k, y: guide_url(k, G, y), home_url=url, cta_url=url(c), brand='WeddingInvite',
+                                     site_name='WeddingInvite', org=org, email=EMAIL, theme_css=GUIDE_THEME, icon=ICON)
+            write(os.path.join(ROOT, sub_dir(c), G[c][f'{x}_slug'], 'index.html'), page)
+
+
+def sitemap(built, G=None, gbuilt=()):
     today = datetime.date.today().isoformat()
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">']
@@ -221,12 +249,22 @@ def sitemap(built):
         out += [f'    <xhtml:link rel="alternate" hreflang="{c2}" href="{url(c2)}" />' for c2 in built]
         out.append(f'    <xhtml:link rel="alternate" hreflang="x-default" href="{url("en")}" />')
         out.append('  </url>')
+    for x in TOPICS:
+        for c in gbuilt:
+            out.append(f'  <url><loc>{guide_url(c, G, x)}</loc><lastmod>{today}</lastmod>')
+            out += [f'    <xhtml:link rel="alternate" hreflang="{c2}" href="{guide_url(c2, G, x)}" />' for c2 in gbuilt]
+            out.append(f'    <xhtml:link rel="alternate" hreflang="x-default" href="{guide_url("en" if "en" in gbuilt else gbuilt[0], G, x)}" />')
+            out.append('  </url>')
     out.append('</urlset>')
     return '\n'.join(out) + '\n'
 
 
-def llms(built):
+def llms(built, G=None, gbuilt=()):
     langs = '\n'.join(f'- {c}: {url(c)}' for c in built)
+    guides = ''
+    if 'en' in gbuilt:
+        guides = '\n## Guides\n\n' + '\n'.join(f'- [{G["en"][f"{x}_name"]}]({guide_url("en", G, x)}): {G["en"][f"{x}_card"]}' for x in TOPICS) + \
+                 f'\n\nGuides are available in {len(gbuilt)} languages (same paths under each language folder).\n'
     return f'''# WeddingInvite
 
 > WeddingInvite is an online wedding and engagement invitation that opens in the browser, made by AnberTech ({SITE}).
@@ -241,7 +279,7 @@ The demo RSVP form does not send data anywhere; answers stay only on the visitor
 The demo is available in {len(built)} languages:
 
 {langs}
-
+{guides}
 ## Contact
 
 - Developer: AnberTech, {SITE}
@@ -266,9 +304,24 @@ def main():
         d = os.path.join(ROOT, sub_dir(c))
         write(os.path.join(d, 'index.html'), render(tpl, c, T[c], built))
         write(os.path.join(d, 'takvim.ics'), ics(c, T[c]))
-    write(os.path.join(ROOT, 'sitemap.xml'), sitemap(built))
-    write(os.path.join(ROOT, 'llms.txt'), llms(built))
-    print('üretildi:', ', '.join(built))
+    G, gbuilt = {}, []
+    gdir = os.path.join(SRC, 'guides')
+    if os.path.isdir(gdir):
+        for c in built:
+            p = os.path.join(gdir, f'{c}.json')
+            if os.path.exists(p):
+                G[c] = json.loads(read(p))
+        if G and 'tr' not in G:
+            sys.exit('guides/tr.json gerekli')
+        for c, g in G.items():
+            errs = guide_page.check(c, g, G.get('tr'), TOPICS)
+            if errs:
+                sys.exit(f'guides/{c}.json hatalı:\n  ' + '\n  '.join(errs))
+        gbuilt = [c for c in built if c in G]
+        build_guides(G, gbuilt)
+    write(os.path.join(ROOT, 'sitemap.xml'), sitemap(built, G, gbuilt))
+    write(os.path.join(ROOT, 'llms.txt'), llms(built, G, gbuilt))
+    print('üretildi:', ', '.join(built), '| rehber:', ', '.join(gbuilt) or '-')
 
 
 if __name__ == '__main__':

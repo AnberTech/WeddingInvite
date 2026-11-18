@@ -1,0 +1,218 @@
+{
+ "g_steps_h2": "Step by step",
+ "g_faq_h2": "Frequently asked questions",
+ "g_cta_h2": "See the live demo",
+ "g_cta_p": "Open the sealed door yourself: try the opening, the cards, the RSVP form, and the countdown in the live sample invitation. The form there is just a demo and doesn't send your reply anywhere.",
+ "g_cta_btn": "Open the live demo",
+ "g_contact": "Want your own invitation? Email us:",
+ "g_other_h2": "More guides",
+ "g_lang": "Language",
+ "g_home": "Home",
+ "make_slug": "online-wedding-invitation",
+ "make_name": "Online wedding invitation",
+ "make_title": "How to Make an Online Wedding Invitation | WeddingInvite",
+ "make_desc": "What to include in an online wedding invitation, wording ideas, when to send the link, and how to pair it with paper invites. Practical tips and examples.",
+ "make_h1": "How to create an online wedding invitation",
+ "make_lead": "A digital wedding invitation puts the date, the venue, directions, and the RSVP in one link your guests open on their phone. Here's what to include and when to send it.",
+ "make_card": "What to include, wording ideas, and when to send the link.",
+ "make_body": [
+  [
+   "What to include",
+   "A good invitation answers your guests' questions before they ask. The essentials are short: <b>your names</b>, who is hosting, the date and time, and the venue name and address. Then add a way to RSVP and a reply-by date, plus a dress code or a note about kids if you need one. On a phone screen, long paragraphs get lost, so give each piece of information its own space. In a WeddingInvite invitation, the details appear across seven cards: your names, the wording and families, the date, the venue, the RSVP form, the weather for the day, and a closing card."
+  ],
+  [
+   "Wedding invitation wording ideas",
+   "Your wording can be formal or relaxed; what matters is that it sounds like the two of you. A classic line: “Together with their families, Elif and Ege request the pleasure of your company as they celebrate their marriage.” A more casual one: “We're getting married, and we'd love for you to be there.” Keep it to two or three sentences, and let the date, time, and address live in their own spots instead of burying them in the text. Listing your parents' names is a traditional touch. When you're done, read it out loud: <b>if it sounds natural</b>, you're on the right track."
+  ],
+  [
+   "Think about the guest experience",
+   "The first few seconds matter. A page designed for a phone, with clear text and easy scrolling, works for guests of any age. A WeddingInvite invitation opens with <b>a sealed marble door</b>: guests sweep the leaves away with a finger, or blow on them after allowing microphone access, tap the seal, and the door opens. Music plays in the background, with a button to turn it off. A countdown at the bottom shows the days, hours, minutes, and seconds until the wedding, and the “Add to calendar” and “Get directions” buttons mean nobody has to hunt for details on the day."
+  ],
+  [
+   "When and how to send the link",
+   "Wedding invitations typically go out six to eight weeks before the big day, and many couples send save-the-dates months earlier, especially for a destination wedding or lots of out-of-town guests. Sending the link in <b>a personal message</b> instead of a big group chat feels more thoughtful and makes guests more likely to reply. Write a short line of your own and put the link below it. About a week before the wedding, share the same link again as a friendly reminder, so the time, address, and directions are one tap away for everyone."
+  ],
+  [
+   "Pairing it with paper invitations",
+   "Going digital doesn't mean giving up paper. Plenty of couples mail printed invitations to grandparents and close family and send the link to everyone else. Printing a <b>QR code</b> that points to your online invitation on the card gives you the best of both: guests holding the card can scan it to reach directions, the calendar, and the RSVP form. That also lets you keep the printed design clean and simple, without cramming every detail onto it. Whatever mix you choose, double-check that the date, time, and address match exactly on both."
+  ]
+ ],
+ "make_steps": [
+  [
+   "Gather your details",
+   "Collect your names, wording, family names, date and time, and the venue name and address in one note, and have your families check the spelling."
+  ],
+  [
+   "Get in touch",
+   "To have an invitation made with your own details, write to us at the email address on this page."
+  ],
+  [
+   "Share the link",
+   "Text or email the link to your guests. Add ?k=Name to the end of the address and the first card says “Dear Name,” with the name prefilled in the RSVP form."
+  ],
+  [
+   "Track your RSVPs",
+   "Keep an eye on replies and your headcount, and send a short reminder to anyone who hasn't answered before your reply-by date."
+  ]
+ ],
+ "make_faq": [
+  [
+   "Do guests need an app to open an online wedding invitation?",
+   "No. A WeddingInvite invitation is a single link that opens in the browser, with no app to download and no account to create. It's designed for a phone held upright; on a wide computer screen it opens in a phone-shaped frame."
+  ],
+  [
+   "Is it okay to send wedding invitations by text or email?",
+   "Yes. For most guests, a well-designed link sent with a personal note is both polite and practical. If some relatives would rather have something to hold, mail them a printed card and send the link as well."
+  ],
+  [
+   "How far in advance should I send an online wedding invitation?",
+   "Six to eight weeks before the wedding is the usual guideline. For out-of-town guests or a destination wedding, send a save-the-date earlier, and consider a short reminder about a week before the day."
+  ],
+  [
+   "Can I personalize the invitation for each guest?",
+   "Yes. Add ?k=Name to the end of the link and the first card greets the guest with “Dear Name,” while the RSVP form opens with their name already filled in. Just send each guest the link that ends with their own name."
+  ],
+  [
+   "How does the weather card work?",
+   "The weather card shows your wedding day. Within 14 days of the date it tries to load a forecast for that day; before that, it shows what was measured on the same date in a past year. If no data loads, the card keeps typical seasonal values and says it isn't a forecast. The data comes from Open-Meteo."
+  ]
+ ],
+ "engage_slug": "digital-engagement-invitation",
+ "engage_name": "Digital engagement invitation",
+ "engage_title": "Digital Engagement Party Invitations | WeddingInvite",
+ "engage_desc": "How to create a digital engagement party invitation: wording ideas, sending on short notice, introducing both families, and one link for every detail.",
+ "engage_h1": "Digital engagement party invitations",
+ "engage_lead": "Engagement parties often come together fast. A one-link digital invitation can go out the moment your details are set and keeps every detail in one place.",
+ "engage_card": "Engagement wording, introducing families, and sending on short notice.",
+ "engage_body": [
+  [
+   "Why go digital for an engagement party?",
+   "Engagement parties usually come together in weeks, not months. Designing, printing, and mailing paper invitations doesn't always fit that timeline, while a digital invitation can go out the moment your details are set. Guests tap the link, see the date and venue, and can save the date with the <b>“Add to calendar” button</b>. Even for a small, family-focused gathering, having everyone look at the same accurate details is far easier than explaining them call by call or repeating them across a dozen text threads. And if the plan changes, everyone already knows where to look."
+  ],
+  [
+   "Engagement party invitation wording",
+   "Engagement wording can be warmer and shorter than a wedding invitation. One example: “Please join us to celebrate the engagement of Elif and Ege.” Another: “We're engaged! Come celebrate with us.” Make it clear what kind of event it is, whether that's a party, a dinner, or a casual get-together, and <b>who is hosting</b>. Traditionally the bride's parents hosted, but today the couple, both families, or close friends often host together. Keep the wording to two or three sentences and leave the date, time, and place to their own cards, where guests can find them quickly."
+  ],
+  [
+   "Introducing both families",
+   "An engagement party is often the first time both families come together in front of a bigger group. Listing both families on the invitation shows guests who is hosting and gives relatives who don't know each other a natural starting point. In a WeddingInvite invitation, the wording and the <b>family names</b> share a card. Check the spelling, titles, and order of names with both families before anything goes out; on this kind of invitation a small typo stands out and can hurt feelings. It's worth having someone from each side read it once."
+  ],
+  [
+   "Sending on short notice",
+   "If time is tight, lock in what won't change first: the date, the time, and the venue. Then pull your guest list into one place and decide how you'll reach each person. When you send the link, add a short personal line; for grandparents and older relatives, <b>a quick phone call</b> followed by the link goes a long way. Two to four weeks of notice works for most engagement parties. A short reminder a few days before the party brings the time and directions back to the top of everyone's messages."
+  ],
+  [
+   "The same format works for engagements",
+   "A WeddingInvite invitation isn't only for weddings; it works just as well for an engagement party. You get the same sealed-door opening, music, an “Add to calendar” button on the date card, “Get directions” on the venue card, an RSVP form, and the weather for the day. A <b>countdown</b> at the bottom shows how long until the party. Even with a smaller guest list, knowing how many people are coming matters for food and seating; you can try the RSVP form in the live sample (sample replies stay only in your own browser). When the wedding gets closer, you can use the same style again."
+  ]
+ ],
+ "engage_steps": [
+  [
+   "Settle the details",
+   "Decide the type of party, the date, time, and venue, and both families' names; check the spelling with your families."
+  ],
+  [
+   "Get in touch",
+   "To have an engagement invitation made with your own details, write to us at the email address on this page."
+  ],
+  [
+   "Send personal links",
+   "Add ?k=Name to the end of the address so each guest gets a link that opens with “Dear Name” on the first card."
+  ],
+  [
+   "Track who's coming",
+   "Watch your headcount and send a short reminder a few days before the party to anyone who hasn't replied."
+  ]
+ ],
+ "engage_faq": [
+  [
+   "How far in advance should you send engagement party invitations?",
+   "There's no strict rule, but engagement parties are usually planned on a shorter timeline than weddings, so sending invitations two to four weeks ahead gives most guests enough notice. Give out-of-town guests a heads-up earlier."
+  ],
+  [
+   "Who traditionally hosts an engagement party?",
+   "Traditionally the bride's parents hosted, but that has changed. Today the couple, either set of parents, both families together, or close friends may host. What matters is that the invitation makes it clear who is doing the inviting."
+  ],
+  [
+   "Is a digital engagement invitation as nice as a printed one?",
+   "With thoughtful wording and a good design, yes. A WeddingInvite invitation opens with a sealed marble door that guests open themselves, with music in the background. If some relatives prefer paper, you can mail them a printed card too."
+  ],
+  [
+   "Should engagement party guests also be invited to the wedding?",
+   "Common etiquette says yes: anyone invited to the engagement party should generally be on the wedding guest list too. If your wedding will be very small, keep the engagement party small as well to avoid awkward conversations later."
+  ],
+  [
+   "How do guests open a digital engagement invitation?",
+   "Guests tap the link you send, and the invitation opens in their phone's browser with no app or account. They sweep the leaves away with a finger or blow after allowing the microphone, tap the seal, and the door opens."
+  ]
+ ],
+ "rsvp_slug": "wedding-rsvp-form",
+ "rsvp_name": "Wedding RSVP form",
+ "rsvp_title": "Wedding RSVP Form: What to Ask and When | WeddingInvite",
+ "rsvp_desc": "What RSVP means, what to ask on a wedding RSVP form, how to set a reply-by date, follow up with guests who haven't answered, and plan your headcount.",
+ "rsvp_h1": "Wedding RSVP form: a practical guide",
+ "rsvp_lead": "Your headcount drives tables, catering, and budget. Here's how to set up your wedding RSVP form, pick a reply-by date, and collect every answer.",
+ "rsvp_card": "What RSVP means, what to ask, reply-by dates, and reminders.",
+ "rsvp_body": [
+  [
+   "What does RSVP mean?",
+   "RSVP comes from the French phrase “répondez s'il vous plaît,” which means “please respond.” On a wedding invitation it's a simple request: let the couple know whether you're coming by a certain date. For a long time that meant mailing back a reply card in a stamped envelope. Today a <b>digital RSVP form</b> that collects replies in one list can do the same job in seconds, instead of a stack of cards, scattered texts, and notes from phone calls. It also spares guests a trip to the mailbox."
+  ],
+  [
+   "Why RSVPs matter so much",
+   "A lot of your plan depends on the headcount: tables and chairs, catering, the seating chart, even transportation. Venues and caterers usually ask for a final count some time before the wedding; check your own contract for the exact deadline. <b>Guessing the number</b> leads to either empty tables or not enough food. Collecting answers early takes the pressure off the last few weeks and lets you build your seating chart knowing exactly who will be there. It also lets you lock in your budget based on real numbers instead of estimates."
+  ],
+  [
+   "What to ask on your RSVP form",
+   "A good RSVP form is short; guests should be able to finish it in under a minute. The core questions: <b>full name</b>, whether they're attending, and how many people are coming. An optional note field lets guests mention anything special or leave a congratulations message. The RSVP form in a WeddingInvite invitation asks exactly that: full name, “Joyfully accept” or “Regretfully decline,” a party size from 1 to 10, and an optional note. Every extra question makes it a bit more likely that someone gives up halfway through, so keep it lean."
+  ],
+  [
+   "Setting a reply-by date",
+   "A safe approach is to set your RSVP deadline one to two weeks before the date your venue or caterer needs the final count, so you have time for late replies and reminders. Put the date on the invitation in plain words, such as: “Kindly reply by May 15.” <b>A specific day</b> works far better than vague phrasing like “as soon as possible.” If you send invitations six to eight weeks out, a deadline three to four weeks before the wedding works for most plans and still leaves room to finish the seating chart."
+  ],
+  [
+   "Following up and planning your headcount",
+   "Every wedding has guests who forget to reply, and it's usually forgetfulness rather than indifference. A short, friendly message a few days before the deadline, with the invitation link included, is often enough. To get your headcount, add up the party size from each yes and keep <b>the declines</b> on a separate list. Calling anyone who still hasn't answered after the deadline shrinks the unknowns. When you give the venue your final number, ask whether they recommend leaving a small buffer for last-minute changes."
+  ]
+ ],
+ "rsvp_steps": [
+  [
+   "Set your details and deadline",
+   "Gather your invitation details and choose a reply-by date based on when your venue needs the final headcount."
+  ],
+  [
+   "Try the form",
+   "You can try the RSVP form on the fifth card of the live sample. For your own invitation, write to us at the email address on this page."
+  ],
+  [
+   "Share personal links",
+   "Add ?k=Name to the end of the address so the form opens with the guest's name filled in; they just pick attendance and party size."
+  ],
+  [
+   "Track replies and follow up",
+   "Add up your headcount as replies come in, and resend the link with a short note to anyone who hasn't answered by the deadline."
+  ]
+ ],
+ "rsvp_faq": [
+  [
+   "What does RSVP stand for on a wedding invitation?",
+   "RSVP stands for “répondez s'il vous plaît,” French for “please respond.” When you see it on an invitation, the hosts are asking you to let them know whether you'll attend by the date they've given."
+  ],
+  [
+   "Do I need to RSVP if I'm not attending?",
+   "Yes. Declining is just as important as accepting; it lets the couple finalize their headcount and avoid paying for a seat that stays empty. A short, kind reply is all it takes."
+  ],
+  [
+   "Can guests change their RSVP later?",
+   "In the WeddingInvite live sample, a reply is remembered in that browser after it's saved, and a “Change my reply” option appears so guests can update their attendance or party size. Sample replies aren't sent to the couple. If plans change at the last minute, it's still kind to tell the couple directly."
+  ],
+  [
+   "How do you handle plus-ones on an RSVP form?",
+   "The simplest way is to ask for the number of guests as a choice on the form; in WeddingInvite, guests pick a number from 1 to 10. Making it clear in your message who the invitation includes, such as one person, a couple, or a family, avoids confusion."
+  ],
+  [
+   "How far before the wedding should the RSVP deadline be?",
+   "There's no fixed rule; the deciding factor is when your venue or caterer needs a final count. Setting your deadline one to two weeks before that date leaves room for late replies and reminders. Three to four weeks before the wedding is common."
+  ]
+ ]
+}
